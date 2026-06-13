@@ -1,0 +1,651 @@
+seq_id,organism,genus,evalue,score,bias,description
+KAL0483881.1,Acrasis kona,Acrasis,6.70E-91,302,0,actin [Acrasis kona]
+KAL0486970.1,Acrasis kona,Acrasis,6.70E-91,302,0,actin [Acrasis kona]
+KAL0491090.1,Acrasis kona,Acrasis,6.70E-91,302,0,actin [Acrasis kona]
+KAL0491647.1,Acrasis kona,Acrasis,6.70E-91,302,0,actin [Acrasis kona]
+EPY35827.1,Angomonas deanei,Angomonas,2.60E-89,296.8,0.1,"actin, other eukaryote [Angomonas deanei]"
+EPY38173.1,Angomonas deanei,Angomonas,2.60E-89,296.8,0.1,"actin, other eukaryote [Angomonas deanei]"
+EPY39073.1,Angomonas deanei,Angomonas,2.60E-89,296.8,0.1,"actin, other eukaryote [Angomonas deanei]"
+EPY42667.1,Angomonas deanei,Angomonas,2.60E-89,296.8,0.1,"actin, other eukaryote [Angomonas deanei]"
+CAD2219603.1,Angomonas deanei,Angomonas,8.90E-43,143.4,0,"Actin, putative [Angomonas deanei]"
+CAD2220884.1,Angomonas deanei,Angomonas,0.00021,17,0.1,"Actin, putative [Angomonas deanei]"
+EPY43030.1,Angomonas deanei,Angomonas,0.0087,11.7,0,hypothetical protein AGDE_00893 [Angomonas deanei]
+CAD2218662.1,Angomonas deanei,Angomonas,0.021,10.4,0,"Actin, putative [Angomonas deanei]"
+EPY41548.1,Angomonas deanei,Angomonas,0.021,10.4,0,actin beta/gamma 1 [Angomonas deanei]
+KAJ9444683.1,Diplonema papillatum,Diplonema,8.20E-87,288.5,0,Actin-2 [Diplonema papillatum]
+KAJ9444684.1,Diplonema papillatum,Diplonema,8.20E-87,288.5,0,Actin-2 [Diplonema papillatum]
+KAJ9470033.1,Diplonema papillatum,Diplonema,8.20E-87,288.5,0,Actin-2 [Diplonema papillatum]
+KAJ9470034.1,Diplonema papillatum,Diplonema,8.20E-87,288.5,0,Actin-2 [Diplonema papillatum]
+KAJ9470036.1,Diplonema papillatum,Diplonema,8.20E-87,288.5,0,Actin-2 [Diplonema papillatum]
+KAJ9442871.1,Diplonema papillatum,Diplonema,6.00E-13,45.2,0,Actin-6 [Diplonema papillatum]
+ACS74731.1,Leishmania aethiopica,Leishmania,1.60E-91,304,0,actin [Leishmania aethiopica]
+ACS74725.1,Leishmania amazonensis,Leishmania,3.00E-92,306.4,0,actin [Leishmania amazonensis]
+ACS74726.1,Leishmania amazonensis,Leishmania,3.00E-92,306.4,0,actin [Leishmania amazonensis]
+ACS74724.1,Leishmania braziliensis,Leishmania,5.40E-92,305.6,0.1,actin [Leishmania braziliensis]
+CAJ2469975.1,Leishmania braziliensis,Leishmania,1.40E-75,251.5,0,unnamed protein product [Leishmania braziliensis]
+CAJ2469453.1,Leishmania braziliensis,Leishmania,1.40E-75,251.5,0,unnamed protein product [Leishmania braziliensis]
+CAJ2468719.1,Leishmania braziliensis,Leishmania,1.20E-51,172.6,0,unnamed protein product [Leishmania braziliensis]
+CAJ2481648.1,Leishmania braziliensis,Leishmania,5.80E-35,117.7,0,unnamed protein product [Leishmania braziliensis]
+CAJ2482045.1,Leishmania braziliensis,Leishmania,5.80E-35,117.7,0,unnamed protein product [Leishmania braziliensis]
+KAI5691398.1,Leishmania braziliensis,Leishmania,5.80E-35,117.7,0,actin [Leishmania braziliensis]
+KAI5688391.1,Leishmania braziliensis,Leishmania,9.90E-31,103.8,0,actin [Leishmania braziliensis]
+CAJ2480109.1,Leishmania braziliensis,Leishmania,4.30E-21,72,0,unnamed protein product [Leishmania braziliensis]
+CAJ2471667.1,Leishmania braziliensis,Leishmania,2.60E-08,29.9,0.1,unnamed protein product [Leishmania braziliensis]
+CAJ2472242.1,Leishmania braziliensis,Leishmania,2.60E-08,29.9,0.1,unnamed protein product [Leishmania braziliensis]
+CAJ2472357.1,Leishmania braziliensis,Leishmania,0.00048,15.8,0,unnamed protein product [Leishmania braziliensis]
+KAI5685121.1,Leishmania braziliensis,Leishmania,0.0037,12.9,0,actin [Leishmania braziliensis]
+CAJ2476764.1,Leishmania braziliensis,Leishmania,0.0037,12.9,0,unnamed protein product [Leishmania braziliensis]
+SYZ62696.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,7.00E-92,305.2,0.1,actin (plasmid) [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM42153.2,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,1.40E-75,251.5,0,putative actin-related protein 3 [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM45639.2,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,1.20E-51,172.6,0,putative actin-like protein [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ63899.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,1.20E-51,172.6,0,actin-like_protein (plasmid) [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM44106.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,5.80E-35,117.7,0,putative actin-like protein [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ70173.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,5.80E-35,117.7,0,actin-like_protein [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM38289.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,9.90E-31,103.8,0,putative actin-related protein 2 [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM43295.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,4.30E-21,72,0,putative actin-like protein [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ69364.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,4.30E-21,72,0,actin-like_protein [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM38682.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,2.60E-08,29.9,0.1,putative actin-like protein [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM38810.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,0.00048,15.8,0,putative actin-like protein [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ65631.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,0.00048,15.8,0,actin-like_protein (plasmid) [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM40136.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,0.0037,12.9,0,putative actin-like protein [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ67802.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,0.0037,12.9,0,actin-like_protein [Leishmania braziliensis MHOM/BR/75/M2904]
+ACS74720.1,Leishmania chagasi,Leishmania,2.40E-91,303.4,0,actin [Leishmania chagasi]
+CAJ1987563.1,Leishmania donovani,Leishmania,2.10E-96,320.1,0,Arp3 | actin-related protein 3 [Leishmania donovani]
+TPP53203.1,Leishmania donovani,Leishmania,2.10E-96,320.1,0,Actin family protein [Leishmania donovani]
+CBZ32956.1,Leishmania donovani,Leishmania,2.50E-96,319.9,0,"actin-related protein 3, putative arp3 [Leishmania donovani]"
+TPP47677.1,Leishmania donovani,Leishmania,2.50E-96,319.9,0,Actin family protein [Leishmania donovani]
+ACS74710.1,Leishmania donovani,Leishmania,2.40E-91,303.4,0,actin [Leishmania donovani]
+AYU75905.1,Leishmania donovani,Leishmania,2.40E-91,303.4,0,actin [Leishmania donovani]
+TPP43057.1,Leishmania donovani,Leishmania,2.40E-91,303.4,0,Actin family protein [Leishmania donovani]
+CAJ1987186.1,Leishmania donovani,Leishmania,3.00E-53,178,0,actin-like protein [Leishmania donovani]
+AYU77162.1,Leishmania donovani,Leishmania,3.00E-53,177.9,0,"actin-like protein, putative [Leishmania donovani]"
+CBZ32583.1,Leishmania donovani,Leishmania,3.00E-53,177.9,0,"actin-like protein, putative [Leishmania donovani]"
+TPP45180.1,Leishmania donovani,Leishmania,3.00E-53,177.9,0,Actin family protein [Leishmania donovani]
+AYU83701.1,Leishmania donovani,Leishmania,6.60E-35,117.5,0,"actin-like protein, putative [Leishmania donovani]"
+CAJ1993719.1,Leishmania donovani,Leishmania,6.60E-35,117.5,0,actin-like protein [Leishmania donovani]
+CBZ38785.1,Leishmania donovani,Leishmania,6.60E-35,117.5,0,"actin-like protein, putative [Leishmania donovani]"
+TPP50953.1,Leishmania donovani,Leishmania,5.40E-34,114.5,0,Actin family protein [Leishmania donovani]
+AYU78219.1,Leishmania donovani,Leishmania,1.30E-32,109.9,0,"actin-related protein 2, putative [Leishmania donovani]"
+CAJ1988241.1,Leishmania donovani,Leishmania,1.30E-32,109.9,0,actin-related protein 2 | Arp2 [Leishmania donovani]
+CBZ33587.1,Leishmania donovani,Leishmania,1.30E-32,109.9,0,"actin-related protein 2, putative [Leishmania donovani]"
+CBZ32950.1,Leishmania donovani,Leishmania,2.50E-21,72.8,0.1,"actin-like protein, putative [Leishmania donovani]"
+TPP47683.1,Leishmania donovani,Leishmania,2.50E-21,72.8,0.1,Actin family protein [Leishmania donovani]
+AYU82879.1,Leishmania donovani,Leishmania,3.10E-21,72.5,0,"actin-like protein, putative [Leishmania donovani]"
+CBZ37986.1,Leishmania donovani,Leishmania,3.10E-21,72.5,0,"actin-like protein, putative [Leishmania donovani]"
+TPP44357.1,Leishmania donovani,Leishmania,3.10E-21,72.5,0,Actin family protein [Leishmania donovani]
+CAJ1987557.1,Leishmania donovani,Leishmania,1.80E-20,70,0,actin-like protein [Leishmania donovani]
+CBZ37833.1,Leishmania donovani,Leishmania,1.20E-06,24.4,0.1,"actin-like protein, putative [Leishmania donovani]"
+CAJ1992738.1,Leishmania donovani,Leishmania,1.60E-06,24,0.1,actin-like protein [Leishmania donovani]
+TPP40263.1,Leishmania donovani,Leishmania,1.60E-06,24,0.1,Actin family protein [Leishmania donovani]
+CBZ36010.1,Leishmania donovani,Leishmania,0.011,11.4,0,"actin-like protein, putative [Leishmania donovani]"
+TPP52906.1,Leishmania donovani,Leishmania,0.011,11.4,0,Actin family protein [Leishmania donovani]
+CAJ1990767.1,Leishmania donovani,Leishmania,0.011,11.4,0,actin-like protein [Leishmania donovani]
+TPP50626.1,Leishmania donovani,Leishmania,0.011,11.4,0,Actin family protein [Leishmania donovani]
+KAG5482769.1,Leishmania enriettii,Leishmania,3.80E-98,325.9,0,hypothetical protein CUR178_06810 [Leishmania enriettii]
+KAG5486657.1,Leishmania enriettii,Leishmania,1.10E-92,307.8,0.1,hypothetical protein CUR178_08024 [Leishmania enriettii]
+KAG5483482.1,Leishmania enriettii,Leishmania,8.10E-52,173.2,0,hypothetical protein CUR178_07803 [Leishmania enriettii]
+KAG5465645.1,Leishmania enriettii,Leishmania,4.90E-34,114.7,0,hypothetical protein CUR178_00355 [Leishmania enriettii]
+KAG5481244.1,Leishmania enriettii,Leishmania,4.00E-31,105,0,hypothetical protein CUR178_06477 [Leishmania enriettii]
+KAG5482765.1,Leishmania enriettii,Leishmania,1.40E-22,76.9,0,hypothetical protein CUR178_06805 [Leishmania enriettii]
+KAG5467193.1,Leishmania enriettii,Leishmania,5.40E-19,65.1,0,hypothetical protein CUR178_00834 [Leishmania enriettii]
+KAG5468837.1,Leishmania enriettii,Leishmania,1.80E-07,27.1,0.2,hypothetical protein CUR178_01673 [Leishmania enriettii]
+KAG5480107.1,Leishmania enriettii,Leishmania,0.0013,14.4,0,hypothetical protein CUR178_06159 [Leishmania enriettii]
+KAG5474219.1,Leishmania enriettii,Leishmania,0.0097,11.5,0,hypothetical protein CUR178_04332 [Leishmania enriettii]
+CCM12809.1,Leishmania guyanensis,Leishmania,4.50E-92,305.8,0.1,Putative actin [Leishmania guyanensis]
+XQJ24500.1,Leishmania guyanensis,Leishmania,4.50E-92,305.8,0.1,actin [Leishmania guyanensis]
+XQJ25991.1,Leishmania guyanensis,Leishmania,1.10E-81,271.6,0,"actin-related protein 3, putative arp3 [Leishmania guyanensis]"
+CCM19677.1,Leishmania guyanensis,Leishmania,1.20E-34,116.7,0,"actin-like protein, putative [Leishmania guyanensis]"
+CCM14660.1,Leishmania guyanensis,Leishmania,6.90E-31,104.3,0,"actin-related protein 2, putative [Leishmania guyanensis]"
+XQJ25986.1,Leishmania guyanensis,Leishmania,8.00E-24,81,0,"actin-like protein, putative [Leishmania guyanensis]"
+XQJ31014.1,Leishmania guyanensis,Leishmania,3.20E-20,69.1,0,"actin-like protein, putative [Leishmania guyanensis]"
+CCM15080.1,Leishmania guyanensis,Leishmania,2.50E-08,30,0.1,"actin-like protein, putative [Leishmania guyanensis]"
+CCM15370.1,Leishmania guyanensis,Leishmania,0.00046,15.9,0.1,"actin-like protein, putative [Leishmania guyanensis]"
+CCM17384.1,Leishmania guyanensis,Leishmania,0.0037,12.9,0,"actin-like protein, putative [Leishmania guyanensis]"
+CAC9473331.1,Leishmania infantum,Leishmania,2.10E-96,320.1,0,actin-related_protein_3_-_putative_arp3 [Leishmania infantum]
+ACS74721.1,Leishmania infantum,Leishmania,2.40E-91,303.4,0,actin [Leishmania infantum]
+CAC9466006.1,Leishmania infantum,Leishmania,3.00E-53,177.9,0,actin-like_protein_-_putative [Leishmania infantum]
+CAC9551129.1,Leishmania infantum,Leishmania,5.60E-35,117.8,0,actin-like_protein_-_putative [Leishmania infantum]
+CAC9483302.1,Leishmania infantum,Leishmania,1.30E-32,109.9,0,actin-related_protein_2_-_putative [Leishmania infantum]
+CAC9473232.1,Leishmania infantum,Leishmania,2.50E-21,72.8,0.1,actin-like_protein_-_putative [Leishmania infantum]
+CAC9543216.1,Leishmania infantum,Leishmania,2.90E-21,72.6,0,actin-like_protein_-_putative [Leishmania infantum]
+CAC9541113.1,Leishmania infantum,Leishmania,1.60E-06,24,0.1,actin-like_protein_-_putative [Leishmania infantum]
+CAC9510716.1,Leishmania infantum,Leishmania,0.011,11.4,0,actin-like_protein_-_putative [Leishmania infantum]
+CAM66853.1,Leishmania infantum JPCM5,Leishmania,2.10E-96,320.1,0,"actin-related protein 3, putative arp3 [Leishmania infantum JPCM5]"
+CAM66490.1,Leishmania infantum JPCM5,Leishmania,3.00E-53,177.9,0,putative actin-like protein [Leishmania infantum JPCM5]
+CAM72796.1,Leishmania infantum JPCM5,Leishmania,5.60E-35,117.8,0,putative actin-like protein [Leishmania infantum JPCM5]
+CAM67322.1,Leishmania infantum JPCM5,Leishmania,1.30E-32,109.9,0,putative actin-related protein 2 [Leishmania infantum JPCM5]
+CAM66847.1,Leishmania infantum JPCM5,Leishmania,2.50E-21,72.8,0.1,putative actin-like protein [Leishmania infantum JPCM5]
+CAM71988.1,Leishmania infantum JPCM5,Leishmania,2.90E-21,72.6,0,putative actin-like protein [Leishmania infantum JPCM5]
+CAM71801.1,Leishmania infantum JPCM5,Leishmania,1.20E-06,24.4,0.1,putative actin-like protein [Leishmania infantum JPCM5]
+CAM69859.1,Leishmania infantum JPCM5,Leishmania,0.011,11.4,0,putative actin-like protein [Leishmania infantum JPCM5]
+CAJ1020308.1,Leishmania lindenbergi,Leishmania,1.20E-74,248.4,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1019220.1,Leishmania lindenbergi,Leishmania,8.80E-53,176.4,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1036570.1,Leishmania lindenbergi,Leishmania,8.80E-35,117.1,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1013964.1,Leishmania lindenbergi,Leishmania,1.40E-32,109.9,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1020290.1,Leishmania lindenbergi,Leishmania,1.00E-23,80.6,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1034441.1,Leishmania lindenbergi,Leishmania,2.20E-19,66.4,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1022971.1,Leishmania lindenbergi,Leishmania,2.60E-08,29.9,0.1,"Actin, putative [Leishmania lindenbergi]"
+KAL0506446.1,Leishmania lindenbergi,Leishmania,2.60E-08,29.9,0.1,putative Actin [Leishmania lindenbergi]
+CAJ1023931.1,Leishmania lindenbergi,Leishmania,0.00046,15.9,0,"Actin, putative [Leishmania lindenbergi]"
+CAJ1030038.1,Leishmania lindenbergi,Leishmania,0.0031,13.2,0,"Actin, putative [Leishmania lindenbergi]"
+ABF58724.1,Leishmania major,Leishmania,1.10E-95,317.8,0,actin-related protein 3 [Leishmania major]
+ACS74714.1,Leishmania major,Leishmania,2.20E-91,303.6,0,actin [Leishmania major]
+AAA19789.1,Leishmania major,Leishmania,7.60E-91,301.8,0.1,actin [Leishmania major]
+ABF58703.1,Leishmania major,Leishmania,6.10E-53,176.9,0,ALP3 [Leishmania major]
+ABF58704.1,Leishmania major,Leishmania,1.80E-33,112.8,0,actin-like protein 2 [Leishmania major]
+ABF58723.1,Leishmania major,Leishmania,3.30E-31,105.3,0,actin-related protein 2 [Leishmania major]
+ABF58702.1,Leishmania major,Leishmania,7.50E-21,71.2,0,actin-like protein 3 [Leishmania major]
+ABF58707.1,Leishmania major,Leishmania,1.30E-20,70.4,0.1,ALP5 [Leishmania major]
+ABF58705.1,Leishmania major,Leishmania,9.20E-07,24.8,0.1,actin-like protein 4 [Leishmania major]
+ABF58706.1,Leishmania major,Leishmania,0.0084,11.8,0,ALP6 [Leishmania major]
+CAG9571585.1,Leishmania major strain Friedlin,Leishmania,1.10E-95,317.8,0,actin-related_protein_3_-_putative_arp3 [Leishmania major strain Friedlin]
+CAJ03366.1,Leishmania major strain Friedlin,Leishmania,1.10E-95,317.8,0,putative actin-related protein 3 arp3 [Leishmania major strain Friedlin]
+CAC22667.1,Leishmania major strain Friedlin,Leishmania,2.20E-91,303.6,0,actin [Leishmania major strain Friedlin]
+CAG9567865.1,Leishmania major strain Friedlin,Leishmania,2.20E-91,303.6,0,actin [Leishmania major strain Friedlin]
+CAG9571043.1,Leishmania major strain Friedlin,Leishmania,6.10E-53,176.9,0,actin-like_protein_-_putative [Leishmania major strain Friedlin]
+CAJ02872.1,Leishmania major strain Friedlin,Leishmania,6.10E-53,176.9,0,putative actin-like protein [Leishmania major strain Friedlin]
+CAG9583871.1,Leishmania major strain Friedlin,Leishmania,1.80E-33,112.8,0,actin-like_protein_-_putative [Leishmania major strain Friedlin]
+CAJ09294.1,Leishmania major strain Friedlin,Leishmania,1.80E-33,112.8,0,putative actin-like protein [Leishmania major strain Friedlin]
+CAG9572825.1,Leishmania major strain Friedlin,Leishmania,3.30E-31,105.3,0,actin-related_protein_2_-_putative [Leishmania major strain Friedlin]
+CAJ07211.1,Leishmania major strain Friedlin,Leishmania,3.30E-31,105.3,0,putative actin-related protein 2 [Leishmania major strain Friedlin]
+CAG9582430.1,Leishmania major strain Friedlin,Leishmania,7.50E-21,71.2,0,actin-like_protein_-_putative [Leishmania major strain Friedlin]
+CBZ12707.1,Leishmania major strain Friedlin,Leishmania,7.50E-21,71.2,0,putative actin-like protein [Leishmania major strain Friedlin]
+CAG9571575.1,Leishmania major strain Friedlin,Leishmania,1.30E-20,70.4,0.1,actin-like_protein_-_putative [Leishmania major strain Friedlin]
+CAJ03361.1,Leishmania major strain Friedlin,Leishmania,1.30E-20,70.4,0.1,putative actin-like protein [Leishmania major strain Friedlin]
+CAG9582255.1,Leishmania major strain Friedlin,Leishmania,9.20E-07,24.8,0.1,actin-like_protein_-_putative [Leishmania major strain Friedlin]
+CAJ08098.1,Leishmania major strain Friedlin,Leishmania,9.20E-07,24.8,0.1,putative actin-like protein [Leishmania major strain Friedlin]
+CAG9578016.1,Leishmania major strain Friedlin,Leishmania,0.0084,11.8,0,actin-like_protein_-_putative [Leishmania major strain Friedlin]
+CBZ12615.1,Leishmania major strain Friedlin,Leishmania,0.0084,11.8,0,putative actin-like protein [Leishmania major strain Friedlin]
+KAG5482938.1,Leishmania martiniquensis,Leishmania,1.30E-99,330.7,0,hypothetical protein LSCM1_06977 [Leishmania martiniquensis]
+KAG5487558.1,Leishmania martiniquensis,Leishmania,1.50E-91,304.1,0,hypothetical protein LSCM1_07515 [Leishmania martiniquensis]
+KAG5484055.1,Leishmania martiniquensis,Leishmania,1.00E-51,172.9,0,hypothetical protein LSCM1_05909 [Leishmania martiniquensis]
+KAG5464175.1,Leishmania martiniquensis,Leishmania,5.50E-35,117.8,0,hypothetical protein LSCM1_00355 [Leishmania martiniquensis]
+KAG5480596.1,Leishmania martiniquensis,Leishmania,2.60E-30,102.4,0,hypothetical protein LSCM1_06300 [Leishmania martiniquensis]
+KAG5482933.1,Leishmania martiniquensis,Leishmania,2.90E-22,75.9,0,hypothetical protein LSCM1_06971 [Leishmania martiniquensis]
+KAG5468424.1,Leishmania martiniquensis,Leishmania,3.60E-07,26.2,0.1,hypothetical protein LSCM1_02404 [Leishmania martiniquensis]
+KAG5479345.1,Leishmania martiniquensis,Leishmania,9.00E-05,18.2,0,hypothetical protein LSCM1_04602 [Leishmania martiniquensis]
+KAG5473926.1,Leishmania martiniquensis,Leishmania,0.022,10.4,0,hypothetical protein LSCM1_04562 [Leishmania martiniquensis]
+ACS74719.1,Leishmania mexicana,Leishmania,3.00E-92,306.4,0,actin [Leishmania mexicana]
+CBZ25150.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,1.40E-95,317.4,0,"actin-related protein 3, putative arp3 [Leishmania mexicana MHOM/GT/2001/U1103]"
+CBZ23355.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,1.90E-87,290.6,0,actin [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ24783.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,2.40E-52,175,0,putative actin-like protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ26184.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,2.10E-36,122.5,0,putative actin-like protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ25792.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,1.50E-34,116.3,0,putative actin-related protein 2 [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ25144.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,6.90E-23,77.9,0,putative actin-like protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ30630.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,1.30E-22,77,0,putative actin-like protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ30488.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,4.30E-07,25.9,0,putative actin-like protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CBZ23754.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,0.006,12.2,0,putative actin-like protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CAJ1006970.1,Leishmania naiffi,Leishmania,4.90E-76,253,0,"Actin, putative [Leishmania naiffi]"
+CAJ1006608.1,Leishmania naiffi,Leishmania,2.20E-52,175.1,0,"Actin, putative [Leishmania naiffi]"
+CAJ1012824.1,Leishmania naiffi,Leishmania,1.70E-35,119.4,0,"Actin, putative [Leishmania naiffi]"
+CAJ1007597.1,Leishmania naiffi,Leishmania,1.10E-31,106.9,0,"Actin, putative [Leishmania naiffi]"
+CAJ1006964.1,Leishmania naiffi,Leishmania,5.60E-24,81.5,0,"Actin, putative [Leishmania naiffi]"
+CAJ1012001.1,Leishmania naiffi,Leishmania,3.00E-20,69.2,0,"Actin, putative [Leishmania naiffi]"
+CAJ1007967.1,Leishmania naiffi,Leishmania,1.50E-08,30.7,0,"Actin, putative [Leishmania naiffi]"
+CAJ1008274.1,Leishmania naiffi,Leishmania,0.00053,15.7,0.1,"Actin, putative [Leishmania naiffi]"
+CAJ1010439.1,Leishmania naiffi,Leishmania,0.0037,12.9,0,"Actin, putative [Leishmania naiffi]"
+KAG5483094.1,Leishmania orientalis,Leishmania,8.70E-99,328,0,hypothetical protein LSCM4_07310 [Leishmania orientalis]
+KAG5487903.1,Leishmania orientalis,Leishmania,1.10E-92,307.8,0.1,hypothetical protein LSCM4_07584 [Leishmania orientalis]
+KAG5484360.1,Leishmania orientalis,Leishmania,3.80E-51,171,0,hypothetical protein LSCM4_07927 [Leishmania orientalis]
+KAG5464910.1,Leishmania orientalis,Leishmania,4.10E-34,114.9,0,hypothetical protein LSCM4_00357 [Leishmania orientalis]
+KAG5480923.1,Leishmania orientalis,Leishmania,1.80E-31,106.2,0,hypothetical protein LSCM4_06493 [Leishmania orientalis]
+KAG5483089.1,Leishmania orientalis,Leishmania,2.00E-22,76.4,0,hypothetical protein LSCM4_07304 [Leishmania orientalis]
+KAG5466111.1,Leishmania orientalis,Leishmania,8.00E-20,67.8,0,hypothetical protein LSCM4_01253 [Leishmania orientalis]
+KAG5468017.1,Leishmania orientalis,Leishmania,2.20E-07,26.8,1,hypothetical protein LSCM4_01104 [Leishmania orientalis]
+KAG5479727.1,Leishmania orientalis,Leishmania,0.0015,14.2,0,hypothetical protein LSCM4_05733 [Leishmania orientalis]
+KAG5473648.1,Leishmania orientalis,Leishmania,0.012,11.3,0,hypothetical protein LSCM4_03718 [Leishmania orientalis]
+ACS74716.1,Leishmania panamensis,Leishmania,3.40E-92,306.2,0.1,actin [Leishmania panamensis]
+AIN95441.1,Leishmania panamensis,Leishmania,4.50E-92,305.8,0.1,actin [Leishmania panamensis]
+AIN96853.1,Leishmania panamensis,Leishmania,3.80E-82,273.2,0,"actin-related protein 3, putative [Leishmania panamensis]"
+AIN96513.1,Leishmania panamensis,Leishmania,3.10E-52,174.6,0,"actin-like protein, putative [Leishmania panamensis]"
+AIO02476.1,Leishmania panamensis,Leishmania,1.10E-34,116.8,0,"actin-like protein, putative [Leishmania panamensis]"
+AIN97448.1,Leishmania panamensis,Leishmania,6.30E-31,104.4,0,"actin-related protein 2, putative [Leishmania panamensis]"
+AIN96847.1,Leishmania panamensis,Leishmania,2.30E-24,82.8,0,"actin-like protein, putative [Leishmania panamensis]"
+AIO01698.1,Leishmania panamensis,Leishmania,3.30E-20,69.1,0,"actin-like protein, putative [Leishmania panamensis]"
+AIN97844.1,Leishmania panamensis,Leishmania,5.00E-08,28.9,0.2,"actin-like protein, putative [Leishmania panamensis]"
+AIN98108.1,Leishmania panamensis,Leishmania,0.00044,16,0.1,"actin-like protein, putative [Leishmania panamensis]"
+AIO00222.1,Leishmania panamensis,Leishmania,0.0037,12.9,0,"actin-like protein, putative [Leishmania panamensis]"
+CAJ1041439.1,Leishmania shawi,Leishmania,4.90E-82,272.8,0,"Actin, putative [Leishmania shawi]"
+CAJ1020745.1,Leishmania shawi,Leishmania,1.10E-81,271.6,0,"Actin, putative [Leishmania shawi]"
+CAJ1041074.1,Leishmania shawi,Leishmania,3.10E-52,174.6,0,"Actin, putative [Leishmania shawi]"
+CAJ1019634.1,Leishmania shawi,Leishmania,3.10E-52,174.6,0,"Actin, putative [Leishmania shawi]"
+KAL0510000.1,Leishmania shawi,Leishmania,3.10E-52,174.6,0,putative Actin [Leishmania shawi]
+CAJ1038085.1,Leishmania shawi,Leishmania,1.20E-34,116.7,0,"Actin, putative [Leishmania shawi]"
+CAJ1047113.1,Leishmania shawi,Leishmania,1.20E-34,116.7,0,"Actin, putative [Leishmania shawi]"
+CAJ1014831.1,Leishmania shawi,Leishmania,6.30E-31,104.4,0,"Actin, putative [Leishmania shawi]"
+CAJ1039649.1,Leishmania shawi,Leishmania,6.30E-31,104.4,0,"Actin, putative [Leishmania shawi]"
+KAL0532064.1,Leishmania shawi,Leishmania,6.30E-31,104.4,0,putative Actin [Leishmania shawi]
+CAJ1020733.1,Leishmania shawi,Leishmania,8.00E-24,81,0,"Actin, putative [Leishmania shawi]"
+CAJ1041433.1,Leishmania shawi,Leishmania,8.00E-24,81,0,"Actin, putative [Leishmania shawi]"
+KAL0528338.1,Leishmania shawi,Leishmania,8.00E-24,81,0,putative Actin [Leishmania shawi]
+CAJ1036043.1,Leishmania shawi,Leishmania,3.20E-20,69.1,0,"Actin, putative [Leishmania shawi]"
+CAJ1023634.1,Leishmania shawi,Leishmania,2.10E-08,30.2,0.1,"Actin, putative [Leishmania shawi]"
+CAJ1042378.1,Leishmania shawi,Leishmania,2.10E-08,30.2,0.1,"Actin, putative [Leishmania shawi]"
+KAL0526663.1,Leishmania shawi,Leishmania,2.10E-08,30.2,0.1,putative Actin [Leishmania shawi]
+CAJ1024594.1,Leishmania shawi,Leishmania,0.00044,16,0.1,"Actin, putative [Leishmania shawi]"
+CAJ1042673.1,Leishmania shawi,Leishmania,0.00044,16,0.1,"Actin, putative [Leishmania shawi]"
+KAL0505267.1,Leishmania shawi,Leishmania,0.00044,16,0.1,putative Actin [Leishmania shawi]
+KAL0525495.1,Leishmania shawi,Leishmania,0.00044,16,0.1,putative Actin [Leishmania shawi]
+CAJ1031219.1,Leishmania shawi,Leishmania,0.0037,12.9,0,"Actin, putative [Leishmania shawi]"
+KAL0500310.1,Leishmania shawi,Leishmania,0.0037,12.9,0,putative Actin [Leishmania shawi]
+KAL0521816.1,Leishmania shawi,Leishmania,0.0037,12.9,0,putative Actin [Leishmania shawi]
+QNG40023.1,Leishmania sp.,Leishmania,3.00E-92,306.4,0,actin [Leishmania sp.]
+KAG5509316.1,Leishmania sp. Ghana 2012 LV757,Leishmania,2.50E-97,323.2,0,hypothetical protein GH5_06405 [Leishmania sp. Ghana 2012 LV757]
+KAG5512263.1,Leishmania sp. Ghana 2012 LV757,Leishmania,1.10E-92,307.8,0.1,hypothetical protein GH5_07749 [Leishmania sp. Ghana 2012 LV757]
+KAG5509986.1,Leishmania sp. Ghana 2012 LV757,Leishmania,1.10E-51,172.8,0,hypothetical protein GH5_07834 [Leishmania sp. Ghana 2012 LV757]
+KAG5489491.1,Leishmania sp. Ghana 2012 LV757,Leishmania,7.40E-33,110.8,0,hypothetical protein GH5_00364 [Leishmania sp. Ghana 2012 LV757]
+KAG5507361.1,Leishmania sp. Ghana 2012 LV757,Leishmania,7.60E-31,104.1,0,hypothetical protein GH5_07457 [Leishmania sp. Ghana 2012 LV757]
+KAG5509310.1,Leishmania sp. Ghana 2012 LV757,Leishmania,2.20E-22,76.3,0,hypothetical protein GH5_06399 [Leishmania sp. Ghana 2012 LV757]
+KAG5491953.1,Leishmania sp. Ghana 2012 LV757,Leishmania,1.70E-19,66.8,0,hypothetical protein GH5_00849 [Leishmania sp. Ghana 2012 LV757]
+KAG5506024.1,Leishmania sp. Ghana 2012 LV757,Leishmania,0.00086,15,0,hypothetical protein GH5_05704 [Leishmania sp. Ghana 2012 LV757]
+KAG5499139.1,Leishmania sp. Ghana 2012 LV757,Leishmania,0.012,11.2,0,hypothetical protein GH5_03845 [Leishmania sp. Ghana 2012 LV757]
+KAG5504658.1,Leishmania sp. Namibia,Leishmania,4.50E-98,325.6,0,hypothetical protein JIQ42_06499 [Leishmania sp. Namibia]
+KAG5507962.1,Leishmania sp. Namibia,Leishmania,1.10E-92,307.8,0.1,hypothetical protein JIQ42_07256 [Leishmania sp. Namibia]
+KAG5505290.1,Leishmania sp. Namibia,Leishmania,1.00E-51,172.9,0,hypothetical protein JIQ42_07497 [Leishmania sp. Namibia]
+KAG5488745.1,Leishmania sp. Namibia,Leishmania,3.10E-34,115.3,0,hypothetical protein JIQ42_00362 [Leishmania sp. Namibia]
+KAG5503095.1,Leishmania sp. Namibia,Leishmania,1.90E-32,109.4,0,hypothetical protein JIQ42_07058 [Leishmania sp. Namibia]
+KAG5504652.1,Leishmania sp. Namibia,Leishmania,8.10E-23,77.7,0,hypothetical protein JIQ42_06493 [Leishmania sp. Namibia]
+KAG5490955.1,Leishmania sp. Namibia,Leishmania,6.20E-19,64.9,0,hypothetical protein JIQ42_00841 [Leishmania sp. Namibia]
+KAG5491803.1,Leishmania sp. Namibia,Leishmania,5.10E-07,25.6,0.1,hypothetical protein JIQ42_01711 [Leishmania sp. Namibia]
+KAG5502355.1,Leishmania sp. Namibia,Leishmania,0.0012,14.5,0,hypothetical protein JIQ42_05232 [Leishmania sp. Namibia]
+KAG5497464.1,Leishmania sp. Namibia,Leishmania,0.012,11.2,0,hypothetical protein JIQ42_03950 [Leishmania sp. Namibia]
+ACS74730.1,Leishmania tropica,Leishmania,1.60E-91,304,0,actin [Leishmania tropica]
+ACS74729.1,Leishmania tropica,Leishmania,2.00E-91,303.7,0,actin [Leishmania tropica]
+CAJ1020814.1,Leishmania utingensis,Leishmania,1.40E-75,251.5,0,"Actin, putative [Leishmania utingensis]"
+CAJ1019665.1,Leishmania utingensis,Leishmania,3.10E-52,174.6,0,"Actin, putative [Leishmania utingensis]"
+KAL0511795.1,Leishmania utingensis,Leishmania,3.10E-52,174.6,0,putative Actin [Leishmania utingensis]
+CAJ1038198.1,Leishmania utingensis,Leishmania,1.10E-34,116.7,0,"Actin, putative [Leishmania utingensis]"
+CAJ1022847.1,Leishmania utingensis,Leishmania,2.90E-32,108.8,0,"Actin, putative [Leishmania utingensis]"
+CAJ1020826.1,Leishmania utingensis,Leishmania,1.40E-23,80.2,0,"Actin, putative [Leishmania utingensis]"
+CAJ1035993.1,Leishmania utingensis,Leishmania,4.20E-20,68.7,0,"Actin, putative [Leishmania utingensis]"
+CAJ1023872.1,Leishmania utingensis,Leishmania,5.60E-08,28.8,0.1,"Actin, putative [Leishmania utingensis]"
+CAJ1024840.1,Leishmania utingensis,Leishmania,0.00046,15.9,0,"Actin, putative [Leishmania utingensis]"
+CAJ1031217.1,Leishmania utingensis,Leishmania,0.0038,12.9,0,"Actin, putative [Leishmania utingensis]"
+KPA75634.1,Leptomonas pyrrhocoris,Leptomonas,2.20E-91,303.6,0,actin [Leptomonas pyrrhocoris]
+KPA75635.1,Leptomonas pyrrhocoris,Leptomonas,2.20E-91,303.6,0,actin [Leptomonas pyrrhocoris]
+KPA75636.1,Leptomonas pyrrhocoris,Leptomonas,2.20E-91,303.6,0,actin [Leptomonas pyrrhocoris]
+KPA75051.1,Leptomonas pyrrhocoris,Leptomonas,4.00E-87,289.6,0,actin-related protein 3 putative arp3 [Leptomonas pyrrhocoris]
+KPA76449.1,Leptomonas pyrrhocoris,Leptomonas,1.90E-52,175.3,0,putative actin-like protein [Leptomonas pyrrhocoris]
+KPA82889.1,Leptomonas pyrrhocoris,Leptomonas,1.40E-41,139.5,0,putative actin-related protein 2 [Leptomonas pyrrhocoris]
+KPA81321.1,Leptomonas pyrrhocoris,Leptomonas,7.90E-34,114,0,putative Actin-like protein [Leptomonas pyrrhocoris]
+KPA75058.1,Leptomonas pyrrhocoris,Leptomonas,1.90E-24,83.1,0,putative actin-like protein [Leptomonas pyrrhocoris]
+KPA75059.1,Leptomonas pyrrhocoris,Leptomonas,1.90E-24,83.1,0,putative actin-like protein [Leptomonas pyrrhocoris]
+KPA85950.1,Leptomonas pyrrhocoris,Leptomonas,2.90E-20,69.3,0,putative Actin-like protein [Leptomonas pyrrhocoris]
+KPA82481.1,Leptomonas pyrrhocoris,Leptomonas,1.90E-05,20.5,0,putative actin-like protein [Leptomonas pyrrhocoris]
+KPA78130.1,Leptomonas pyrrhocoris,Leptomonas,0.00011,17.9,0,putative mitochondrial actin-like protein [Leptomonas pyrrhocoris]
+KPA78131.1,Leptomonas pyrrhocoris,Leptomonas,0.00011,17.9,0,putative mitochondrial actin-like protein [Leptomonas pyrrhocoris]
+KPA78132.1,Leptomonas pyrrhocoris,Leptomonas,0.00011,17.9,0,putative mitochondrial actin-like protein [Leptomonas pyrrhocoris]
+KPA78133.1,Leptomonas pyrrhocoris,Leptomonas,0.00011,17.9,0,putative mitochondrial actin-like protein [Leptomonas pyrrhocoris]
+KAL7698791.1,Lotmaria passim,Lotmaria,1.50E-90,300.8,0,actin [Lotmaria passim]
+KAL7704221.1,Lotmaria passim,Lotmaria,1.50E-90,300.8,0,actin [Lotmaria passim]
+KAL7704080.1,Lotmaria passim,Lotmaria,9.60E-25,84,0,actin-like protein [Lotmaria passim]
+KAL7707854.1,Lotmaria passim,Lotmaria,3.70E-05,19.5,0.1,actin-like protein [Lotmaria passim]
+KAL7705620.1,Lotmaria passim,Lotmaria,3.80E-05,19.5,0,actin-like protein [Lotmaria passim]
+KAF0973591.1,Naegleria fowleri,Naegleria,7.30E-186,614.8,0,hypothetical protein FDP41_008295 [Naegleria fowleri]
+CAG4713263.1,Naegleria fowleri,Naegleria,3.20E-96,319.5,0.3,unnamed protein product [Naegleria fowleri]
+KAF0979886.1,Naegleria fowleri,Naegleria,3.20E-96,319.5,0.3,hypothetical protein FDP41_001039 [Naegleria fowleri]
+KAF0984296.1,Naegleria fowleri,Naegleria,1.30E-91,304.4,0,hypothetical protein FDP41_007473 [Naegleria fowleri]
+KAF0971491.1,Naegleria fowleri,Naegleria,3.20E-91,303,0.1,hypothetical protein FDP41_010223 [Naegleria fowleri]
+KAF0971594.1,Naegleria fowleri,Naegleria,3.20E-91,303,0.1,hypothetical protein FDP41_010123 [Naegleria fowleri]
+KAF0974898.1,Naegleria fowleri,Naegleria,3.20E-91,303,0.1,hypothetical protein FDP41_006065 [Naegleria fowleri]
+KAF0975309.1,Naegleria fowleri,Naegleria,3.20E-91,303,0.1,hypothetical protein FDP41_005680 [Naegleria fowleri]
+KAF0975519.1,Naegleria fowleri,Naegleria,3.20E-91,303,0.1,hypothetical protein FDP41_005513 [Naegleria fowleri]
+KAF0984350.1,Naegleria fowleri,Naegleria,7.80E-91,301.8,0.1,hypothetical protein FDP41_007527 [Naegleria fowleri]
+AAA29382.1,Naegleria fowleri,Naegleria,1.40E-90,300.9,0.1,actin [Naegleria fowleri]
+AAA29383.1,Naegleria fowleri,Naegleria,8.40E-80,265.4,0.1,"actin, partial [Naegleria fowleri]"
+CAG4709026.1,Naegleria fowleri,Naegleria,2.00E-72,241.1,0.1,unnamed protein product [Naegleria fowleri]
+KAF0973921.1,Naegleria fowleri,Naegleria,2.00E-72,241.1,0.1,hypothetical protein FDP41_007308 [Naegleria fowleri]
+KAF0983267.1,Naegleria fowleri,Naegleria,3.60E-72,240.3,0,hypothetical protein FDP41_010332 [Naegleria fowleri]
+CAG4715313.1,Naegleria fowleri,Naegleria,6.40E-69,229.6,0,unnamed protein product [Naegleria fowleri]
+KAF0973270.1,Naegleria fowleri,Naegleria,6.40E-69,229.6,0,hypothetical protein FDP41_008477 [Naegleria fowleri]
+KAF0982139.1,Naegleria fowleri,Naegleria,4.00E-68,227,0,hypothetical protein FDP41_012000 [Naegleria fowleri]
+CAG4713049.1,Naegleria fowleri,Naegleria,4.90E-66,220.1,0,unnamed protein product [Naegleria fowleri]
+KAF0979242.1,Naegleria fowleri,Naegleria,4.90E-66,220.1,0,hypothetical protein FDP41_001585 [Naegleria fowleri]
+CAG4710727.1,Naegleria fowleri,Naegleria,7.60E-62,206.3,0,unnamed protein product [Naegleria fowleri]
+KAF0979467.1,Naegleria fowleri,Naegleria,7.60E-62,206.3,0,hypothetical protein FDP41_001810 [Naegleria fowleri]
+KAF0979852.1,Naegleria fowleri,Naegleria,3.40E-61,204.1,0,hypothetical protein FDP41_001005 [Naegleria fowleri]
+KAF0984498.1,Naegleria fowleri,Naegleria,2.00E-59,198.3,0,hypothetical protein FDP41_000397 [Naegleria fowleri]
+KAF0971667.1,Naegleria fowleri,Naegleria,2.20E-53,178.4,0.8,hypothetical protein FDP41_009890 [Naegleria fowleri]
+KAF0972442.1,Naegleria fowleri,Naegleria,1.80E-49,165.5,0,hypothetical protein FDP41_009345 [Naegleria fowleri]
+KAF0976377.1,Naegleria fowleri,Naegleria,2.40E-38,128.8,0,hypothetical protein FDP41_004604 [Naegleria fowleri]
+KAF0976631.1,Naegleria fowleri,Naegleria,2.80E-38,128.6,0,hypothetical protein FDP41_004530 [Naegleria fowleri]
+KAF0975173.1,Naegleria fowleri,Naegleria,1.70E-35,119.4,0,hypothetical protein FDP41_005926 [Naegleria fowleri]
+CAG4717639.1,Naegleria fowleri,Naegleria,8.80E-34,113.8,0.5,unnamed protein product [Naegleria fowleri]
+KAF0980011.1,Naegleria fowleri,Naegleria,8.80E-34,113.8,0.5,hypothetical protein FDP41_001164 [Naegleria fowleri]
+KAF0975917.1,Naegleria fowleri,Naegleria,2.40E-31,105.8,3.1,hypothetical protein FDP41_005244 [Naegleria fowleri]
+CAG4711315.1,Naegleria fowleri,Naegleria,3.80E-31,105.1,0,unnamed protein product [Naegleria fowleri]
+KAF0974647.1,Naegleria fowleri,Naegleria,3.80E-31,105.1,0,hypothetical protein FDP41_006121 [Naegleria fowleri]
+CAG4709591.1,Naegleria fowleri,Naegleria,4.00E-31,105,0.2,unnamed protein product [Naegleria fowleri]
+KAF0982061.1,Naegleria fowleri,Naegleria,4.00E-31,105,0.2,hypothetical protein FDP41_011922 [Naegleria fowleri]
+KAF0975926.1,Naegleria fowleri,Naegleria,2.20E-24,82.8,0.1,hypothetical protein FDP41_005253 [Naegleria fowleri]
+KAF0973326.1,Naegleria fowleri,Naegleria,6.00E-17,58.4,0.1,hypothetical protein FDP41_008533 [Naegleria fowleri]
+KAF0973521.1,Naegleria fowleri,Naegleria,4.10E-14,49,0.2,hypothetical protein FDP41_008225 [Naegleria fowleri]
+KAF0976213.1,Naegleria fowleri,Naegleria,1.30E-12,44.1,0.1,hypothetical protein FDP41_004888 [Naegleria fowleri]
+CAG4718322.1,Naegleria fowleri,Naegleria,0.0036,12.9,0,unnamed protein product [Naegleria fowleri]
+KAF0975125.1,Naegleria fowleri,Naegleria,0.0036,12.9,0,hypothetical protein FDP41_005878 [Naegleria fowleri]
+KAF0975721.1,Naegleria fowleri,Naegleria,0.0038,12.9,0,hypothetical protein FDP41_005048 [Naegleria fowleri]
+EFC47390.1,Naegleria gruberi,Naegleria,3.10E-182,602.9,0,actin-related protein ARP3 [Naegleria gruberi]
+EFC46689.1,Naegleria gruberi,Naegleria,3.80E-91,302.8,0.2,hypothetical protein NAEGRDRAFT_47526 [Naegleria gruberi]
+EFC36529.1,Naegleria gruberi,Naegleria,7.60E-91,301.8,0.1,hypothetical protein NAEGRDRAFT_82840 [Naegleria gruberi]
+EFC37355.1,Naegleria gruberi,Naegleria,7.60E-91,301.8,0.1,hypothetical protein NAEGRDRAFT_55502 [Naegleria gruberi]
+EFC38601.1,Naegleria gruberi,Naegleria,7.60E-91,301.8,0.1,hypothetical protein NAEGRDRAFT_56335 [Naegleria gruberi]
+EFC45736.1,Naegleria gruberi,Naegleria,7.60E-91,301.8,0.1,hypothetical protein NAEGRDRAFT_56113 [Naegleria gruberi]
+EFC45849.1,Naegleria gruberi,Naegleria,7.60E-91,301.8,0.1,hypothetical protein NAEGRDRAFT_56107 [Naegleria gruberi]
+EFC45551.1,Naegleria gruberi,Naegleria,3.90E-89,296.2,0.1,hypothetical protein NAEGRDRAFT_48298 [Naegleria gruberi]
+EFC44817.1,Naegleria gruberi,Naegleria,7.40E-89,295.3,0.3,hypothetical protein NAEGRDRAFT_56150 [Naegleria gruberi]
+EFC39380.1,Naegleria gruberi,Naegleria,8.30E-89,295.1,0.1,conventional actin [Naegleria gruberi]
+EFC43567.1,Naegleria gruberi,Naegleria,1.70E-88,294.1,0.1,hypothetical protein NAEGRDRAFT_49788 [Naegleria gruberi]
+AAF37002.1,Naegleria gruberi,Naegleria,3.60E-88,293,0.1,actin [Naegleria gruberi]
+EFC37829.1,Naegleria gruberi,Naegleria,5.30E-88,292.4,0.1,hypothetical protein NAEGRDRAFT_55489 [Naegleria gruberi]
+EFC42493.1,Naegleria gruberi,Naegleria,9.40E-86,285,0.1,hypothetical protein NAEGRDRAFT_88138 [Naegleria gruberi]
+EFC46662.1,Naegleria gruberi,Naegleria,4.00E-85,283,0.1,hypothetical protein NAEGRDRAFT_44432 [Naegleria gruberi]
+EFC44574.1,Naegleria gruberi,Naegleria,1.40E-84,281.2,0.1,hypothetical protein NAEGRDRAFT_60612 [Naegleria gruberi]
+EFC40304.1,Naegleria gruberi,Naegleria,2.70E-83,276.9,0.1,hypothetical protein NAEGRDRAFT_83258 [Naegleria gruberi]
+EFC50604.1,Naegleria gruberi,Naegleria,2.90E-83,276.8,0.1,hypothetical protein NAEGRDRAFT_82392 [Naegleria gruberi]
+EFC44728.1,Naegleria gruberi,Naegleria,4.40E-82,272.9,0,hypothetical protein NAEGRDRAFT_33387 [Naegleria gruberi]
+EFC40698.1,Naegleria gruberi,Naegleria,5.60E-74,246.2,0,actin-related protein 1 [Naegleria gruberi]
+EFC39465.1,Naegleria gruberi,Naegleria,1.20E-72,241.9,0.2,hypothetical protein NAEGRDRAFT_72694 [Naegleria gruberi]
+EFC42687.1,Naegleria gruberi,Naegleria,7.10E-70,232.7,0,hypothetical protein NAEGRDRAFT_50292 [Naegleria gruberi]
+EFC43968.1,Naegleria gruberi,Naegleria,1.10E-69,232.1,0,hypothetical protein NAEGRDRAFT_33902 [Naegleria gruberi]
+EFC49757.1,Naegleria gruberi,Naegleria,5.90E-69,229.7,0,hypothetical protein NAEGRDRAFT_30071 [Naegleria gruberi]
+EFC46496.1,Naegleria gruberi,Naegleria,7.00E-66,219.6,0,actin related protein 2 [Naegleria gruberi]
+EFC43036.1,Naegleria gruberi,Naegleria,2.00E-65,218.1,0,actin related protein [Naegleria gruberi]
+EFC49554.1,Naegleria gruberi,Naegleria,2.60E-65,217.7,0.3,hypothetical protein NAEGRDRAFT_29917 [Naegleria gruberi]
+EFC47145.1,Naegleria gruberi,Naegleria,6.70E-63,209.7,0,hypothetical protein NAEGRDRAFT_60433 [Naegleria gruberi]
+EFC36130.1,Naegleria gruberi,Naegleria,9.40E-63,209.3,0,hypothetical protein NAEGRDRAFT_44886 [Naegleria gruberi]
+EFC38748.1,Naegleria gruberi,Naegleria,1.40E-57,192.2,0.2,hypothetical protein NAEGRDRAFT_73491 [Naegleria gruberi]
+EFC48075.1,Naegleria gruberi,Naegleria,1.20E-56,189.1,0.1,hypothetical protein NAEGRDRAFT_44350 [Naegleria gruberi]
+EFC35638.1,Naegleria gruberi,Naegleria,1.60E-55,185.5,0.1,hypothetical protein NAEGRDRAFT_54819 [Naegleria gruberi]
+EFC35716.1,Naegleria gruberi,Naegleria,1.60E-55,185.5,0.1,predicted protein [Naegleria gruberi]
+EFC45593.1,Naegleria gruberi,Naegleria,5.80E-54,180.3,0.4,hypothetical protein NAEGRDRAFT_32902 [Naegleria gruberi]
+EFC44039.1,Naegleria gruberi,Naegleria,6.30E-53,176.9,0.2,hypothetical protein NAEGRDRAFT_55286 [Naegleria gruberi]
+EFC50487.1,Naegleria gruberi,Naegleria,2.60E-52,174.9,0.1,hypothetical protein NAEGRDRAFT_29502 [Naegleria gruberi]
+EFC37569.1,Naegleria gruberi,Naegleria,9.80E-49,163.1,0.4,hypothetical protein NAEGRDRAFT_74761 [Naegleria gruberi]
+EFC46109.1,Naegleria gruberi,Naegleria,7.70E-48,160.1,0.3,hypothetical protein NAEGRDRAFT_32634 [Naegleria gruberi]
+EFC35479.1,Naegleria gruberi,Naegleria,8.50E-48,160,0.1,hypothetical protein NAEGRDRAFT_54894 [Naegleria gruberi]
+EFC41506.1,Naegleria gruberi,Naegleria,7.20E-46,153.6,0,hypothetical protein NAEGRDRAFT_60797 [Naegleria gruberi]
+EFC43759.1,Naegleria gruberi,Naegleria,5.70E-45,150.7,0.2,hypothetical protein NAEGRDRAFT_44581 [Naegleria gruberi]
+EFC46665.1,Naegleria gruberi,Naegleria,6.00E-44,147.3,0,predicted protein [Naegleria gruberi]
+EFC44855.1,Naegleria gruberi,Naegleria,8.20E-43,143.6,0,hypothetical protein NAEGRDRAFT_48860 [Naegleria gruberi]
+EFC45629.1,Naegleria gruberi,Naegleria,1.50E-41,139.4,0,hypothetical protein NAEGRDRAFT_88141 [Naegleria gruberi]
+EFC35341.1,Naegleria gruberi,Naegleria,2.10E-39,132.4,0,"hypothetical protein NAEGRDRAFT_77005, partial [Naegleria gruberi]"
+EFC37747.1,Naegleria gruberi,Naegleria,2.30E-38,128.9,0,hypothetical protein NAEGRDRAFT_53573 [Naegleria gruberi]
+EFC45850.1,Naegleria gruberi,Naegleria,1.50E-37,126.3,0,actin-related protein [Naegleria gruberi]
+EFC46646.1,Naegleria gruberi,Naegleria,2.10E-34,115.8,0,actin related protein [Naegleria gruberi]
+EFC49563.1,Naegleria gruberi,Naegleria,1.80E-33,112.8,0,"hypothetical protein NAEGRDRAFT_30098, partial [Naegleria gruberi]"
+EFC46757.1,Naegleria gruberi,Naegleria,4.80E-32,108.1,0,hypothetical protein NAEGRDRAFT_31967 [Naegleria gruberi]
+EFC41172.1,Naegleria gruberi,Naegleria,1.90E-20,69.9,0,actin-related protein ARP3 [Naegleria gruberi]
+KAG2378925.1,Naegleria lovaniensis,Naegleria,1.80E-185,613.6,0,hypothetical protein C9374_007563 [Naegleria lovaniensis]
+KAG2389482.1,Naegleria lovaniensis,Naegleria,9.10E-96,318,0.2,hypothetical protein C9374_014042 [Naegleria lovaniensis]
+KAG2386491.1,Naegleria lovaniensis,Naegleria,8.60E-92,304.9,0,hypothetical protein C9374_002235 [Naegleria lovaniensis]
+KAG2373214.1,Naegleria lovaniensis,Naegleria,2.50E-91,303.4,0.1,hypothetical protein C9374_012317 [Naegleria lovaniensis]
+KAG2381892.1,Naegleria lovaniensis,Naegleria,2.50E-91,303.4,0.1,hypothetical protein C9374_005684 [Naegleria lovaniensis]
+KAG2381918.1,Naegleria lovaniensis,Naegleria,2.50E-91,303.4,0.1,hypothetical protein C9374_005710 [Naegleria lovaniensis]
+KAG2383356.1,Naegleria lovaniensis,Naegleria,6.00E-87,289,0.1,hypothetical protein C9374_004693 [Naegleria lovaniensis]
+KAG2374697.1,Naegleria lovaniensis,Naegleria,5.90E-83,275.8,0.4,hypothetical protein C9374_010441 [Naegleria lovaniensis]
+KAG2385491.1,Naegleria lovaniensis,Naegleria,1.40E-77,258.1,0.2,hypothetical protein C9374_003306 [Naegleria lovaniensis]
+KAG2388214.1,Naegleria lovaniensis,Naegleria,3.30E-70,233.8,0,hypothetical protein C9374_001064 [Naegleria lovaniensis]
+KAG2374360.1,Naegleria lovaniensis,Naegleria,1.80E-68,228.1,0,hypothetical protein C9374_010930 [Naegleria lovaniensis]
+KAG2379316.1,Naegleria lovaniensis,Naegleria,7.10E-66,219.5,0,hypothetical protein C9374_007455 [Naegleria lovaniensis]
+KAG2379438.1,Naegleria lovaniensis,Naegleria,1.40E-64,215.3,0.1,hypothetical protein C9374_006555 [Naegleria lovaniensis]
+KAG2373806.1,Naegleria lovaniensis,Naegleria,1.90E-62,208.3,0,hypothetical protein C9374_011691 [Naegleria lovaniensis]
+KAG2388023.1,Naegleria lovaniensis,Naegleria,2.60E-57,191.3,0,hypothetical protein C9374_000873 [Naegleria lovaniensis]
+KAG2375091.1,Naegleria lovaniensis,Naegleria,4.00E-52,174.3,0.3,hypothetical protein C9374_010095 [Naegleria lovaniensis]
+KAG2385774.1,Naegleria lovaniensis,Naegleria,2.60E-50,168.2,0,hypothetical protein C9374_002923 [Naegleria lovaniensis]
+KAG2389097.1,Naegleria lovaniensis,Naegleria,1.30E-45,152.8,0,hypothetical protein C9374_014497 [Naegleria lovaniensis]
+KAG2372826.1,Naegleria lovaniensis,Naegleria,9.50E-43,143.4,0,hypothetical protein C9374_013106 [Naegleria lovaniensis]
+KAG2374283.1,Naegleria lovaniensis,Naegleria,6.10E-42,140.7,0,hypothetical protein C9374_010853 [Naegleria lovaniensis]
+KAG2377987.1,Naegleria lovaniensis,Naegleria,2.80E-38,128.7,0.1,hypothetical protein C9374_008609 [Naegleria lovaniensis]
+KAG2373429.1,Naegleria lovaniensis,Naegleria,7.90E-37,123.9,0,hypothetical protein C9374_012168 [Naegleria lovaniensis]
+KAG2372866.1,Naegleria lovaniensis,Naegleria,1.60E-35,119.5,0,hypothetical protein C9374_013073 [Naegleria lovaniensis]
+KAG2386521.1,Naegleria lovaniensis,Naegleria,1.50E-33,113.1,0.9,hypothetical protein C9374_002265 [Naegleria lovaniensis]
+KAG2388130.1,Naegleria lovaniensis,Naegleria,3.40E-30,102,0,hypothetical protein C9374_000980 [Naegleria lovaniensis]
+KAG2389357.1,Naegleria lovaniensis,Naegleria,1.00E-28,97.1,0.5,hypothetical protein C9374_013917 [Naegleria lovaniensis]
+KAG2381312.1,Naegleria lovaniensis,Naegleria,1.20E-13,47.5,0,hypothetical protein C9374_006301 [Naegleria lovaniensis]
+KAG2379017.1,Naegleria lovaniensis,Naegleria,2.10E-09,33.5,0.2,hypothetical protein C9374_007655 [Naegleria lovaniensis]
+KAG2386727.1,Naegleria lovaniensis,Naegleria,2.70E-07,26.5,0,hypothetical protein C9374_002471 [Naegleria lovaniensis]
+KAG2381660.1,Naegleria lovaniensis,Naegleria,0.00045,15.9,0,hypothetical protein C9374_006044 [Naegleria lovaniensis]
+KAG2392672.1,Naegleria lovaniensis,Naegleria,0.0016,14.1,0,hypothetical protein C9374_011397 [Naegleria lovaniensis]
+KAG5511715.1,Porcisia hertigi,Porcisia,3.40E-91,303,0,hypothetical protein JKF63_07313 [Porcisia hertigi]
+KAG5511716.1,Porcisia hertigi,Porcisia,3.40E-91,303,0,hypothetical protein JKF63_07314 [Porcisia hertigi]
+KAG5511717.1,Porcisia hertigi,Porcisia,3.40E-91,303,0,hypothetical protein JKF63_07315 [Porcisia hertigi]
+KAG5511718.1,Porcisia hertigi,Porcisia,3.40E-91,303,0,hypothetical protein JKF63_07316 [Porcisia hertigi]
+KAG5511719.1,Porcisia hertigi,Porcisia,3.40E-91,303,0,hypothetical protein JKF63_07317 [Porcisia hertigi]
+KAG5511714.1,Porcisia hertigi,Porcisia,5.00E-90,299.1,0,hypothetical protein JKF63_07312 [Porcisia hertigi]
+KAG5511725.1,Porcisia hertigi,Porcisia,5.90E-83,275.8,0,hypothetical protein JKF63_07323 [Porcisia hertigi]
+KAG5509578.1,Porcisia hertigi,Porcisia,4.80E-49,164.1,0,hypothetical protein JKF63_06283 [Porcisia hertigi]
+KAG5490218.1,Porcisia hertigi,Porcisia,8.00E-38,127.1,0,hypothetical protein JKF63_00337 [Porcisia hertigi]
+KAG5507084.1,Porcisia hertigi,Porcisia,1.90E-33,112.7,0,hypothetical protein JKF63_05830 [Porcisia hertigi]
+KAG5509154.1,Porcisia hertigi,Porcisia,8.20E-23,77.7,0.1,hypothetical protein JKF63_06163 [Porcisia hertigi]
+KAG5494105.1,Porcisia hertigi,Porcisia,8.40E-07,24.9,0.2,hypothetical protein JKF63_01940 [Porcisia hertigi]
+KAG5505663.1,Porcisia hertigi,Porcisia,0.00089,15,0,hypothetical protein JKF63_04998 [Porcisia hertigi]
+KAG5499427.1,Porcisia hertigi,Porcisia,0.0056,12.3,0,hypothetical protein JKF63_07990 [Porcisia hertigi]
+EPY23296.1,Strigomonas culicis,Strigomonas,1.30E-89,297.7,0.1,"actin, other eukaryote [Strigomonas culicis]"
+EPY26331.1,Strigomonas culicis,Strigomonas,1.30E-89,297.7,0.1,"actin, other eukaryote [Strigomonas culicis]"
+EPY26673.1,Strigomonas culicis,Strigomonas,1.30E-89,297.7,0.1,"actin, other eukaryote [Strigomonas culicis]"
+EPY29418.1,Strigomonas culicis,Strigomonas,1.30E-89,297.7,0.1,"actin, other eukaryote [Strigomonas culicis]"
+EPY35174.1,Strigomonas culicis,Strigomonas,5.00E-29,98.1,0,"actin, other eukaryote [Strigomonas culicis]"
+ABF58730.1,Trypanosoma brucei,Trypanosoma,3.90E-166,549.9,0,actin-related protein 3 [Trypanosoma brucei]
+AAA30151.1,Trypanosoma brucei,Trypanosoma,2.00E-88,293.8,0,actin [Trypanosoma brucei]
+AAA30152.1,Trypanosoma brucei,Trypanosoma,7.00E-88,292.1,0,actin [Trypanosoma brucei]
+ABF58729.1,Trypanosoma brucei,Trypanosoma,6.20E-59,196.7,0,actin-related protein 2 [Trypanosoma brucei]
+ABF58710.1,Trypanosoma brucei,Trypanosoma,5.70E-45,150.7,0,actin-like protein 2 [Trypanosoma brucei]
+ABF58709.1,Trypanosoma brucei,Trypanosoma,1.10E-43,146.5,0,ALP3 [Trypanosoma brucei]
+ABF58713.1,Trypanosoma brucei,Trypanosoma,3.50E-25,85.5,0,ALP5 [Trypanosoma brucei]
+AAX79472.1,Trypanosoma brucei,Trypanosoma,5.10E-06,22.3,0.3,"actin-like protein, putative [Trypanosoma brucei]"
+ABF58712.1,Trypanosoma brucei,Trypanosoma,5.10E-06,22.3,0.3,ALP6 [Trypanosoma brucei]
+ABF58714.1,Trypanosoma brucei,Trypanosoma,3.40E-05,19.6,0,actin-related protein 6 [Trypanosoma brucei]
+AAX80912.1,Trypanosoma brucei,Trypanosoma,0.0015,14.3,0,"actin, putative [Trypanosoma brucei]"
+ABF58711.1,Trypanosoma brucei,Trypanosoma,0.0015,14.3,0,actin-like protein 4 [Trypanosoma brucei]
+EAN76600.1,Trypanosoma brucei brucei TREU927,Trypanosoma,3.90E-166,549.9,0,"actin-like protein 3, putative [Trypanosoma brucei brucei TREU927]"
+EAN76875.1,Trypanosoma brucei brucei TREU927,Trypanosoma,5.50E-89,295.7,0,actin A [Trypanosoma brucei brucei TREU927]
+EAN76876.1,Trypanosoma brucei brucei TREU927,Trypanosoma,5.50E-89,295.7,0,actin A [Trypanosoma brucei brucei TREU927]
+EAN78938.1,Trypanosoma brucei brucei TREU927,Trypanosoma,6.20E-59,196.7,0,"actin-like protein 2, putative [Trypanosoma brucei brucei TREU927]"
+EAN79963.1,Trypanosoma brucei brucei TREU927,Trypanosoma,5.70E-45,150.7,0,"actin-like protein, putative [Trypanosoma brucei brucei TREU927]"
+EAN79355.1,Trypanosoma brucei brucei TREU927,Trypanosoma,1.10E-43,146.5,0,"actin, putative [Trypanosoma brucei brucei TREU927]"
+EAN76609.1,Trypanosoma brucei brucei TREU927,Trypanosoma,3.50E-25,85.5,0,"actin, putative [Trypanosoma brucei brucei TREU927]"
+AAZ10336.1,Trypanosoma brucei brucei TREU927,Trypanosoma,5.10E-06,22.3,0.3,"actin-like protein, putative [Trypanosoma brucei brucei TREU927]"
+EAN77627.1,Trypanosoma brucei brucei TREU927,Trypanosoma,3.40E-05,19.6,0,"actin-like protein, putative [Trypanosoma brucei brucei TREU927]"
+AAZ10689.1,Trypanosoma brucei brucei TREU927,Trypanosoma,0.0015,14.3,0,"actin, putative [Trypanosoma brucei brucei TREU927]"
+RHW70229.1,Trypanosoma brucei equiperdum,Trypanosoma,5.50E-89,295.7,0,actin A [Trypanosoma brucei equiperdum]
+RHW70394.1,Trypanosoma brucei equiperdum,Trypanosoma,5.50E-89,295.7,0,actin A [Trypanosoma brucei equiperdum]
+RHW73392.1,Trypanosoma brucei equiperdum,Trypanosoma,5.00E-06,22.4,0.2,actin-like protein [Trypanosoma brucei equiperdum]
+RHW72731.1,Trypanosoma brucei equiperdum,Trypanosoma,0.0013,14.5,0,actin [Trypanosoma brucei equiperdum]
+CBH14208.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,3.90E-166,549.9,0,"actin related protein 3, putative [Trypanosoma brucei gambiense DAL972]"
+CBH14414.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,5.50E-89,295.7,0,actin A [Trypanosoma brucei gambiense DAL972]
+CBH14415.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,7.80E-89,295.2,0,actin A [Trypanosoma brucei gambiense DAL972]
+CBH16831.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,1.70E-59,198.5,0,"actin-like protein 2, putative [Trypanosoma brucei gambiense DAL972]"
+CBH18017.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,1.80E-44,149,0,"actin-like protein, putative [Trypanosoma brucei gambiense DAL972]"
+CBH17332.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,1.10E-43,146.5,0,"actin, putative [Trypanosoma brucei gambiense DAL972]"
+CBH16827.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,2.90E-31,105.5,0,"actin-like protein 2, putative, (fragment), partial [Trypanosoma brucei gambiense DAL972]"
+CBH14214.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,3.50E-25,85.5,0,"actin, putative [Trypanosoma brucei gambiense DAL972]"
+CBH09973.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,5.00E-06,22.4,0.2,"actin-like protein, putative [Trypanosoma brucei gambiense DAL972]"
+CBH15156.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,3.40E-05,19.6,0,"actin-like protein, putative [Trypanosoma brucei gambiense DAL972]"
+CBH10374.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,0.0013,14.5,0,"actin, putative [Trypanosoma brucei gambiense DAL972]"
+CCD15985.1,Trypanosoma congolense IL3000,Trypanosoma,1.00E-88,294.8,0,unnamed protein product [Trypanosoma congolense IL3000]
+RNF08996.1,Trypanosoma conorhini,Trypanosoma,7.50E-171,565.4,0,putative actin-related protein 3 [Trypanosoma conorhini]
+RNE94977.1,Trypanosoma conorhini,Trypanosoma,1.00E-88,294.8,0,actin [Trypanosoma conorhini]
+RNF27318.1,Trypanosoma conorhini,Trypanosoma,8.50E-75,248.9,0,putative actin 2 [Trypanosoma conorhini]
+RNF17197.1,Trypanosoma conorhini,Trypanosoma,2.50E-56,188.1,0,putative actin-related protein 2 [Trypanosoma conorhini]
+RNF22555.1,Trypanosoma conorhini,Trypanosoma,9.00E-46,153.3,0,actin-like protein [Trypanosoma conorhini]
+RNF14289.1,Trypanosoma conorhini,Trypanosoma,2.20E-42,142.1,0,actin-like protein [Trypanosoma conorhini]
+RNF14891.1,Trypanosoma conorhini,Trypanosoma,1.10E-27,93.7,0,putative actin [Trypanosoma conorhini]
+RNF09002.1,Trypanosoma conorhini,Trypanosoma,1.90E-26,89.7,0,putative actin-like protein [Trypanosoma conorhini]
+RNF08061.1,Trypanosoma conorhini,Trypanosoma,0.0004,16.1,0,actin-like protein [Trypanosoma conorhini]
+EAN83141.1,Trypanosoma cruzi,Trypanosoma,5.20E-173,572.5,0,"actin-related protein 3, putative [Trypanosoma cruzi]"
+EAN98434.1,Trypanosoma cruzi,Trypanosoma,5.20E-173,572.5,0,"actin-related protein 3, putative [Trypanosoma cruzi]"
+KAF5222199.1,Trypanosoma cruzi,Trypanosoma,5.20E-173,572.5,0,hypothetical protein ECC02_004713 [Trypanosoma cruzi]
+PWV00898.1,Trypanosoma cruzi,Trypanosoma,5.20E-173,572.5,0,putative actin-related protein 3 [Trypanosoma cruzi]
+KAF8278061.1,Trypanosoma cruzi,Trypanosoma,1.60E-172,570.9,0,putative actin-related protein 3 [Trypanosoma cruzi]
+PWU94492.1,Trypanosoma cruzi,Trypanosoma,1.60E-172,570.9,0,putative actin-related protein 3 [Trypanosoma cruzi]
+AAP97326.1,Trypanosoma cruzi,Trypanosoma,3.60E-88,293,0,actin 1 [Trypanosoma cruzi]
+AAP97327.1,Trypanosoma cruzi,Trypanosoma,3.60E-88,293,0,actin 2 [Trypanosoma cruzi]
+AAP97329.1,Trypanosoma cruzi,Trypanosoma,3.60E-88,293,0,actin 3 [Trypanosoma cruzi]
+AFC75702.1,Trypanosoma cruzi,Trypanosoma,5.40E-88,292.4,0,actin [Trypanosoma cruzi]
+AAA62141.1,Trypanosoma cruzi,Trypanosoma,1.20E-86,287.9,0,actin 1 [Trypanosoma cruzi]
+AAA62142.1,Trypanosoma cruzi,Trypanosoma,1.20E-86,287.9,0,actin 2 [Trypanosoma cruzi]
+EAN88410.1,Trypanosoma cruzi,Trypanosoma,3.20E-79,263.5,0,"actin, putative, partial [Trypanosoma cruzi]"
+EAN87645.1,Trypanosoma cruzi,Trypanosoma,1.90E-78,261,0,"actin 2, putative [Trypanosoma cruzi]"
+PWV18840.1,Trypanosoma cruzi,Trypanosoma,1.90E-78,261,0,putative actin 2 [Trypanosoma cruzi]
+RNC41787.1,Trypanosoma cruzi,Trypanosoma,1.90E-78,261,0,putative actin 2 [Trypanosoma cruzi]
+EAN81060.1,Trypanosoma cruzi,Trypanosoma,6.80E-65,216.3,0,"actin, putative, partial [Trypanosoma cruzi]"
+PWV01327.1,Trypanosoma cruzi,Trypanosoma,2.50E-58,194.7,0,putative actin-related protein 2 [Trypanosoma cruzi]
+RNF25508.1,Trypanosoma cruzi,Trypanosoma,2.50E-58,194.7,0,putative actin-related protein 2 [Trypanosoma cruzi]
+EAN87119.1,Trypanosoma cruzi,Trypanosoma,5.60E-58,193.5,0,"actin-related protein 2, putative [Trypanosoma cruzi]"
+KAF5223755.1,Trypanosoma cruzi,Trypanosoma,5.60E-58,193.5,0,hypothetical protein ECC02_003209 [Trypanosoma cruzi]
+RNC56003.1,Trypanosoma cruzi,Trypanosoma,5.60E-58,193.5,0,putative actin-related protein 2 [Trypanosoma cruzi]
+EAN93797.1,Trypanosoma cruzi,Trypanosoma,8.90E-58,192.9,0,"actin-related protein 2, putative [Trypanosoma cruzi]"
+RNC48406.1,Trypanosoma cruzi,Trypanosoma,8.90E-58,192.9,0,putative actin-related protein 2 [Trypanosoma cruzi]
+PWV21711.1,Trypanosoma cruzi,Trypanosoma,2.40E-50,168.4,0,putative actin-related protein 2 [Trypanosoma cruzi]
+PWU87300.1,Trypanosoma cruzi,Trypanosoma,3.90E-45,151.2,0,putative actin-like protein [Trypanosoma cruzi]
+RNF19047.1,Trypanosoma cruzi,Trypanosoma,3.90E-45,151.2,0,actin-like protein [Trypanosoma cruzi]
+EAN92324.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,"actin-like protein, putative [Trypanosoma cruzi]"
+KAF5222630.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,hypothetical protein ECC02_004207 [Trypanosoma cruzi]
+PWV14295.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,putative actin-like protein [Trypanosoma cruzi]
+RNC58730.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,actin-like protein [Trypanosoma cruzi]
+EAN87907.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV12802.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,putative actin-like protein [Trypanosoma cruzi]
+RNC44435.1,Trypanosoma cruzi,Trypanosoma,4.50E-45,151,0,actin-like protein [Trypanosoma cruzi]
+PWU91996.1,Trypanosoma cruzi,Trypanosoma,1.60E-43,145.9,0,putative actin-like protein [Trypanosoma cruzi]
+EAN90479.1,Trypanosoma cruzi,Trypanosoma,2.00E-43,145.6,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV09649.1,Trypanosoma cruzi,Trypanosoma,2.00E-43,145.6,0,putative actin-like protein [Trypanosoma cruzi]
+RNC48351.1,Trypanosoma cruzi,Trypanosoma,2.00E-43,145.6,0,putative actin-like protein [Trypanosoma cruzi]
+EAN97339.1,Trypanosoma cruzi,Trypanosoma,1.30E-42,142.9,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV08800.1,Trypanosoma cruzi,Trypanosoma,1.30E-42,142.9,0,putative actin-like protein [Trypanosoma cruzi]
+PWU90040.1,Trypanosoma cruzi,Trypanosoma,8.40E-29,97.4,0,putative actin [Trypanosoma cruzi]
+RNF20184.1,Trypanosoma cruzi,Trypanosoma,8.40E-29,97.4,0,putative actin [Trypanosoma cruzi]
+EAN85934.1,Trypanosoma cruzi,Trypanosoma,1.10E-28,97,0,"actin, putative [Trypanosoma cruzi]"
+KAF5220571.1,Trypanosoma cruzi,Trypanosoma,1.10E-28,97,0,hypothetical protein ECC02_006420 [Trypanosoma cruzi]
+PWV10289.1,Trypanosoma cruzi,Trypanosoma,1.10E-28,97,0,putative actin [Trypanosoma cruzi]
+RNC61173.1,Trypanosoma cruzi,Trypanosoma,1.10E-28,97,0,putative actin [Trypanosoma cruzi]
+EAN98440.1,Trypanosoma cruzi,Trypanosoma,3.90E-27,91.9,0,"actin-like protein, putative [Trypanosoma cruzi]"
+KAF5222205.1,Trypanosoma cruzi,Trypanosoma,3.90E-27,91.9,0,hypothetical protein ECC02_004719 [Trypanosoma cruzi]
+KAF8281010.1,Trypanosoma cruzi,Trypanosoma,3.90E-27,91.9,0,putative actin-like protein [Trypanosoma cruzi]
+PWV06680.1,Trypanosoma cruzi,Trypanosoma,3.90E-27,91.9,0,putative actin-like protein [Trypanosoma cruzi]
+KAF8278227.1,Trypanosoma cruzi,Trypanosoma,2.90E-26,89.1,0,putative actin-like protein [Trypanosoma cruzi]
+PWU94485.1,Trypanosoma cruzi,Trypanosoma,2.90E-26,89.1,0,putative actin-like protein [Trypanosoma cruzi]
+RNF19400.1,Trypanosoma cruzi,Trypanosoma,2.90E-26,89.1,0,putative actin-like protein [Trypanosoma cruzi]
+EAN91961.1,Trypanosoma cruzi,Trypanosoma,6.20E-22,74.8,0,"actin-like protein, putative, partial [Trypanosoma cruzi]"
+EAN80807.1,Trypanosoma cruzi,Trypanosoma,3.60E-11,39.3,0.1,"actin, putative, partial [Trypanosoma cruzi]"
+EAN87149.1,Trypanosoma cruzi,Trypanosoma,4.30E-07,25.9,0,"actin-like protein, putative [Trypanosoma cruzi]"
+KAF5218549.1,Trypanosoma cruzi,Trypanosoma,4.30E-07,25.9,0,hypothetical protein ECC02_008530 [Trypanosoma cruzi]
+PWU94140.1,Trypanosoma cruzi,Trypanosoma,4.30E-07,25.9,0,putative actin-like protein [Trypanosoma cruzi]
+RNC58838.1,Trypanosoma cruzi,Trypanosoma,4.30E-07,25.9,0,putative actin-like protein [Trypanosoma cruzi]
+EAN94613.1,Trypanosoma cruzi,Trypanosoma,2.40E-06,23.4,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV04754.1,Trypanosoma cruzi,Trypanosoma,2.40E-06,23.4,0,putative actin-like protein [Trypanosoma cruzi]
+RNC46390.1,Trypanosoma cruzi,Trypanosoma,2.40E-06,23.4,0,putative actin-like protein [Trypanosoma cruzi]
+KAF8304687.1,Trypanosoma cruzi,Trypanosoma,4.20E-06,22.6,0,putative actin-like protein [Trypanosoma cruzi]
+PWU89573.1,Trypanosoma cruzi,Trypanosoma,4.20E-06,22.6,0,putative actin-like protein [Trypanosoma cruzi]
+RNF21855.1,Trypanosoma cruzi,Trypanosoma,4.20E-06,22.6,0,putative actin-like protein [Trypanosoma cruzi]
+PWV00105.1,Trypanosoma cruzi,Trypanosoma,0.00037,16.2,0,putative actin-like protein [Trypanosoma cruzi]
+RNF23726.1,Trypanosoma cruzi,Trypanosoma,0.00037,16.2,0,putative actin [Trypanosoma cruzi]
+EAN90886.1,Trypanosoma cruzi,Trypanosoma,0.00039,16.2,0,"actin-like protein, putative [Trypanosoma cruzi]"
+KAF5224352.1,Trypanosoma cruzi,Trypanosoma,0.00039,16.2,0,hypothetical protein ECC02_002608 [Trypanosoma cruzi]
+KAF8296203.1,Trypanosoma cruzi,Trypanosoma,0.00039,16.2,0,putative actin-like protein [Trypanosoma cruzi]
+RNC57094.1,Trypanosoma cruzi,Trypanosoma,0.00039,16.2,0,putative actin [Trypanosoma cruzi]
+EAN97086.1,Trypanosoma cruzi,Trypanosoma,0.00054,15.7,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV11096.1,Trypanosoma cruzi,Trypanosoma,0.00054,15.7,0,putative actin-like protein [Trypanosoma cruzi]
+RNC46949.1,Trypanosoma cruzi,Trypanosoma,0.00054,15.7,0,putative actin [Trypanosoma cruzi]
+EAN84931.1,Trypanosoma cruzi,Trypanosoma,0.0012,14.5,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV18435.1,Trypanosoma cruzi,Trypanosoma,0.0012,14.5,0,putative actin-like protein [Trypanosoma cruzi]
+RNC61678.1,Trypanosoma cruzi,Trypanosoma,0.0012,14.5,0,putative actin-like protein [Trypanosoma cruzi]
+KAF8276379.1,Trypanosoma cruzi,Trypanosoma,0.0028,13.3,0,putative actin-like protein [Trypanosoma cruzi]
+PWU95165.1,Trypanosoma cruzi,Trypanosoma,0.0028,13.3,0,putative actin-like protein [Trypanosoma cruzi]
+EAO00237.1,Trypanosoma cruzi,Trypanosoma,0.0029,13.3,0,"actin-like protein, putative [Trypanosoma cruzi]"
+PWV18174.1,Trypanosoma cruzi,Trypanosoma,0.0029,13.3,0,putative actin-like protein [Trypanosoma cruzi]
+RNC48867.1,Trypanosoma cruzi,Trypanosoma,0.0029,13.3,0,putative actin-like protein [Trypanosoma cruzi]
+PBJ80056.1,Trypanosoma cruzi cruzi,Trypanosoma,1.60E-172,570.9,0,actin-related protein 3 [Trypanosoma cruzi cruzi]
+PBJ69333.1,Trypanosoma cruzi cruzi,Trypanosoma,3.60E-88,293,0,actin [Trypanosoma cruzi cruzi]
+PBJ70101.1,Trypanosoma cruzi cruzi,Trypanosoma,2.50E-58,194.7,0,actin-related protein 2 [Trypanosoma cruzi cruzi]
+PBJ75073.1,Trypanosoma cruzi cruzi,Trypanosoma,1.60E-43,145.9,0,actin-like protein [Trypanosoma cruzi cruzi]
+PBJ69557.1,Trypanosoma cruzi cruzi,Trypanosoma,8.40E-29,97.4,0,actin [Trypanosoma cruzi cruzi]
+PBJ80050.1,Trypanosoma cruzi cruzi,Trypanosoma,2.90E-26,89.1,0,actin-like protein [Trypanosoma cruzi cruzi]
+PBJ69066.1,Trypanosoma cruzi cruzi,Trypanosoma,0.00037,16.2,0,actin-like protein [Trypanosoma cruzi cruzi]
+PBJ72710.1,Trypanosoma cruzi cruzi,Trypanosoma,0.0028,13.3,0,actin-like protein [Trypanosoma cruzi cruzi]
+ESS68162.1,Trypanosoma cruzi Dm28c,Trypanosoma,1.60E-172,570.9,0,actin-related protein 3 [Trypanosoma cruzi Dm28c]
+ESS65814.1,Trypanosoma cruzi Dm28c,Trypanosoma,3.60E-88,293,0,actin [Trypanosoma cruzi Dm28c]
+ESS68777.1,Trypanosoma cruzi Dm28c,Trypanosoma,0.00037,16.2,0,actin [Trypanosoma cruzi Dm28c]
+ESS70876.1,Trypanosoma cruzi Dm28c,Trypanosoma,0.0028,13.3,0,actin-like protein [Trypanosoma cruzi Dm28c]
+ABF13398.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,5.20E-173,572.5,0,actin-related protein 3 [Trypanosoma cruzi strain CL Brener]
+ABF13397.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,5.60E-58,193.5,0,actin-related protein 2 [Trypanosoma cruzi strain CL Brener]
+ABF58721.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,4.50E-45,151,0,ALP3 [Trypanosoma cruzi strain CL Brener]
+ABF58722.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,1.30E-42,142.9,0,actin-like protein 2 [Trypanosoma cruzi strain CL Brener]
+ABF58716.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,1.10E-28,97,0,actin-like protein 3 [Trypanosoma cruzi strain CL Brener]
+ABF58720.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,3.90E-27,91.9,0,ALP5 [Trypanosoma cruzi strain CL Brener]
+ABF58718.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,2.40E-06,23.4,0,actin-related protein 6 [Trypanosoma cruzi strain CL Brener]
+ABF58719.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,0.00054,15.7,0,actin-like protein 4 [Trypanosoma cruzi strain CL Brener]
+ABF58717.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,0.0012,14.5,0,ALP6 [Trypanosoma cruzi strain CL Brener]
+SCU67947.1,Trypanosoma equiperdum,Trypanosoma,3.90E-166,549.9,0,"actin related protein 3, putative [Trypanosoma equiperdum]"
+SCU66724.1,Trypanosoma equiperdum,Trypanosoma,2.50E-59,198,0,"actin related protein 2, putative [Trypanosoma equiperdum]"
+SCU72759.1,Trypanosoma equiperdum,Trypanosoma,1.10E-44,149.7,0,"actin-like protein, putative [Trypanosoma equiperdum]"
+SCU66630.1,Trypanosoma equiperdum,Trypanosoma,1.10E-43,146.5,0,"actin, putative [Trypanosoma equiperdum]"
+SCU67952.1,Trypanosoma equiperdum,Trypanosoma,3.50E-25,85.5,0,"actin, putative [Trypanosoma equiperdum]"
+SCU72854.1,Trypanosoma equiperdum,Trypanosoma,5.10E-06,22.3,0.3,"actin-like protein, putative [Trypanosoma equiperdum]"
+SCU71093.1,Trypanosoma equiperdum,Trypanosoma,0.0015,14.3,0,"actin, putative [Trypanosoma equiperdum]"
+XLE99431.1,Trypanosoma evansi,Trypanosoma,6.70E-89,295.4,0,actin [Trypanosoma evansi]
+XLE99433.1,Trypanosoma evansi,Trypanosoma,1.20E-88,294.5,0,actin [Trypanosoma evansi]
+XRP78418.1,Trypanosoma evansi,Trypanosoma,1.20E-88,294.5,0,actin [Trypanosoma evansi]
+XRP78419.1,Trypanosoma evansi,Trypanosoma,1.20E-88,294.5,0,actin [Trypanosoma evansi]
+XXN60607.1,Trypanosoma evansi,Trypanosoma,1.20E-88,294.5,0,actin [Trypanosoma evansi]
+XXN60608.1,Trypanosoma evansi,Trypanosoma,1.20E-88,294.5,0,actin [Trypanosoma evansi]
+KEG11013.1,Trypanosoma grayi,Trypanosoma,2.90E-170,563.4,0,actin-related protein 3 [Trypanosoma grayi]
+KEG14314.1,Trypanosoma grayi,Trypanosoma,2.90E-89,296.6,0,putative actin [Trypanosoma grayi]
+KEG14331.1,Trypanosoma grayi,Trypanosoma,2.50E-77,257.3,0,actin 2 [Trypanosoma grayi]
+KEG08963.1,Trypanosoma grayi,Trypanosoma,1.30E-60,202.2,0,actin-related protein 2 [Trypanosoma grayi]
+KEG13618.1,Trypanosoma grayi,Trypanosoma,4.10E-43,144.5,0,actin-like protein [Trypanosoma grayi]
+KEG09790.1,Trypanosoma grayi,Trypanosoma,3.50E-42,141.5,0,putative actin-like protein [Trypanosoma grayi]
+KEG11006.1,Trypanosoma grayi,Trypanosoma,5.50E-29,98,0,actin-like protein [Trypanosoma grayi]
+KEG09935.1,Trypanosoma grayi,Trypanosoma,4.70E-27,91.7,0,putative actin [Trypanosoma grayi]
+KEG14266.1,Trypanosoma grayi,Trypanosoma,0.00012,17.8,0,putative actin [Trypanosoma grayi]
+KEG13747.1,Trypanosoma grayi,Trypanosoma,0.00041,16.1,0.1,actin-like protein [Trypanosoma grayi]
+KEG06160.1,Trypanosoma grayi,Trypanosoma,0.003,13.2,0,actin-like protein [Trypanosoma grayi]
+KAH9600719.1,Trypanosoma melophagium,Trypanosoma,3.80E-175,579.6,0,Actin family [Trypanosoma melophagium]
+KAH9601434.1,Trypanosoma melophagium,Trypanosoma,3.40E-88,293.1,0,Actin family [Trypanosoma melophagium]
+KAH9601590.1,Trypanosoma melophagium,Trypanosoma,3.40E-88,293.1,0,Actin family [Trypanosoma melophagium]
+KAH9601723.1,Trypanosoma melophagium,Trypanosoma,3.40E-88,293.1,0,Actin family [Trypanosoma melophagium]
+KAH9601864.1,Trypanosoma melophagium,Trypanosoma,1.70E-83,277.6,0,Actin family [Trypanosoma melophagium]
+KAH9589105.1,Trypanosoma melophagium,Trypanosoma,3.20E-57,191,0,Actin family [Trypanosoma melophagium]
+KAH9600101.1,Trypanosoma melophagium,Trypanosoma,1.60E-46,155.8,0,Actin family [Trypanosoma melophagium]
+KAH9598171.1,Trypanosoma melophagium,Trypanosoma,1.20E-42,143.1,0,Actin family [Trypanosoma melophagium]
+KAH9600735.1,Trypanosoma melophagium,Trypanosoma,4.40E-28,95,0,Actin family [Trypanosoma melophagium]
+KAH9597357.1,Trypanosoma melophagium,Trypanosoma,8.10E-28,94.2,0,Actin family [Trypanosoma melophagium]
+KAH9597766.1,Trypanosoma melophagium,Trypanosoma,9.20E-08,28.1,0.6,Actin family [Trypanosoma melophagium]
+KAH9599169.1,Trypanosoma melophagium,Trypanosoma,0.0013,14.4,0.1,Actin family [Trypanosoma melophagium]
+KAH9577513.1,Trypanosoma melophagium,Trypanosoma,0.0023,13.6,0,Actin family [Trypanosoma melophagium]
+RNF03016.1,Trypanosoma rangeli,Trypanosoma,6.90E-172,568.8,0,putative actin-related protein 3 [Trypanosoma rangeli]
+RNE98070.1,Trypanosoma rangeli,Trypanosoma,1.60E-88,294.1,0,actin [Trypanosoma rangeli]
+RNE98187.1,Trypanosoma rangeli,Trypanosoma,7.80E-77,255.6,0,putative actin 2 [Trypanosoma rangeli]
+RNF02586.1,Trypanosoma rangeli,Trypanosoma,1.60E-58,195.3,0,putative actin-related protein 2 [Trypanosoma rangeli]
+RNF04507.1,Trypanosoma rangeli,Trypanosoma,7.80E-45,150.2,0,actin-like protein [Trypanosoma rangeli]
+RNF09506.1,Trypanosoma rangeli,Trypanosoma,1.10E-37,126.7,0,actin-like protein [Trypanosoma rangeli]
+RNF05185.1,Trypanosoma rangeli,Trypanosoma,1.20E-28,96.9,0,putative actin [Trypanosoma rangeli]
+RNF07964.1,Trypanosoma rangeli,Trypanosoma,5.60E-27,91.4,0,putative actin-like protein [Trypanosoma rangeli]
+RNF03990.1,Trypanosoma rangeli,Trypanosoma,0.00043,16,0,actin-like protein [Trypanosoma rangeli]
+RNF08587.1,Trypanosoma rangeli,Trypanosoma,0.0049,12.5,0,actin-like protein [Trypanosoma rangeli]
+ESL05505.1,Trypanosoma rangeli SC58,Trypanosoma,2.10E-88,293.8,0,actin beta/gamma 1 [Trypanosoma rangeli SC58]
+ESL11232.1,Trypanosoma rangeli SC58,Trypanosoma,2.10E-88,293.8,0,actin beta/gamma 1 [Trypanosoma rangeli SC58]
+ESL12200.1,Trypanosoma rangeli SC58,Trypanosoma,2.10E-88,293.8,0,actin beta/gamma 1 [Trypanosoma rangeli SC58]
+ORC88199.1,Trypanosoma theileri,Trypanosoma,6.20E-176,582.1,0,actin-related protein 3 [Trypanosoma theileri]
+ORC85364.1,Trypanosoma theileri,Trypanosoma,3.30E-88,293.1,0,putative actin [Trypanosoma theileri]
+ORC87302.1,Trypanosoma theileri,Trypanosoma,9.30E-80,265.3,0,actin 2 [Trypanosoma theileri]
+ORC88231.1,Trypanosoma theileri,Trypanosoma,9.30E-80,265.3,0,actin 2 [Trypanosoma theileri]
+ORC92391.1,Trypanosoma theileri,Trypanosoma,2.30E-59,198.1,0,putative actin-related protein 2 [Trypanosoma theileri]
+ORC86100.1,Trypanosoma theileri,Trypanosoma,1.00E-45,153.1,0,actin-like protein [Trypanosoma theileri]
+ORC88192.1,Trypanosoma theileri,Trypanosoma,1.90E-30,102.8,0,actin-like protein [Trypanosoma theileri]
+ORC84666.1,Trypanosoma theileri,Trypanosoma,8.30E-29,97.4,0,putative actin [Trypanosoma theileri]
+ORC89358.1,Trypanosoma theileri,Trypanosoma,0.00041,16.1,0.1,actin-like protein [Trypanosoma theileri]
+ORC93411.1,Trypanosoma theileri,Trypanosoma,0.00071,15.3,0.2,actin-like protein [Trypanosoma theileri]
+ORC93788.1,Trypanosoma theileri,Trypanosoma,0.0066,12.1,0,putative actin [Trypanosoma theileri]
+KAH8611528.1,Trypanosoma vivax,Trypanosoma,6.40E-163,539.3,0,putative Actin [Trypanosoma vivax]
+KAH8604348.1,Trypanosoma vivax,Trypanosoma,1.60E-89,297.5,0,putative Actin [Trypanosoma vivax]
+KAH8611173.1,Trypanosoma vivax,Trypanosoma,1.10E-52,176.1,0,putative Actin [Trypanosoma vivax]
+KAH8607994.1,Trypanosoma vivax,Trypanosoma,1.40E-43,146.1,0,putative Actin [Trypanosoma vivax]
+KAH8611703.1,Trypanosoma vivax,Trypanosoma,2.60E-39,132,0,putative Actin [Trypanosoma vivax]
+KAH8614170.1,Trypanosoma vivax,Trypanosoma,9.80E-05,18.1,0.1,putative Actin [Trypanosoma vivax]
+CCC50368.1,Trypanosoma vivax Y486,Trypanosoma,6.40E-163,539.3,0,putative actin-related protein 3 [Trypanosoma vivax Y486]
+CCC52477.1,Trypanosoma vivax Y486,Trypanosoma,1.10E-52,176.1,0,putative actin-related protein 2 [Trypanosoma vivax Y486]
+CCC53610.1,Trypanosoma vivax Y486,Trypanosoma,1.40E-43,146.1,0,putative actin-like protein [Trypanosoma vivax Y486]
+CCC52926.1,Trypanosoma vivax Y486,Trypanosoma,2.60E-39,132,0,putative actin [Trypanosoma vivax Y486]
+CCC47406.1,Trypanosoma vivax Y486,Trypanosoma,9.80E-05,18.1,0.1,putative actin [Trypanosoma vivax Y486]
+CCC47051.1,Trypanosoma vivax Y486,Trypanosoma,0.0021,13.7,0,putative actin-like protein [Trypanosoma vivax Y486]
+BAJ78229.1,Tsukubamonas globosa,Tsukubamonas,5.10E-67,223.3,0.3,"actin, partial [Tsukubamonas globosa]"

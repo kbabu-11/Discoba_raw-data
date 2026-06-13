@@ -1,0 +1,25 @@
+seq_id,organism,genus,evalue,score,bias,description
+KAG2385748.1,Naegleria lovaniensis,Naegleria,2.4e-32,111.5,0.2,hypothetical protein C9374_002897 [Naegleria lovaniensis]
+CAG4715143.1,Naegleria fowleri,Naegleria,2.1e-31,108.4,0.3,unnamed protein product [Naegleria fowleri]
+KAF0978089.1,Naegleria fowleri,Naegleria,2.1e-31,108.4,0.3,hypothetical protein FDP41_002604 [Naegleria fowleri]
+EFC45435.1,Naegleria gruberi,Naegleria,3.5e-31,107.7,0.2,predicted protein [Naegleria gruberi]
+KAH9578077.1,Trypanosoma melophagium,Trypanosoma,3.6e-13,49.2,0.0,Actin-related protein 2/3 complex subunit 5 [Trypanosoma melophagium]
+CT005244.1,Leishmania major,Leishmania,3.6e-13,49.2,0.0,Actin-related protein 2/3 complex subunit 5 [Leishmania major]
+PBJ75541.1,Trypanosoma cruzi cruzi,Trypanosoma,1.2e-12,47.6,0.0,ARP2/3 complex subunit [Trypanosoma cruzi cruzi]
+PBJ75599.1,Trypanosoma cruzi cruzi,Trypanosoma,1.2e-12,47.6,0.0,ARP2/3 complex subunit [Trypanosoma cruzi cruzi]
+ABF13403.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,1.5e-12,47.2,0.0,ARPC5 [Trypanosoma cruzi strain CL Brener]
+EAN83535.1,Trypanosoma cruzi,Trypanosoma,1.5e-12,47.2,0.0,"ARP2/3 complex subunit, putative [Trypanosoma cruzi]"
+PWV03888.1,Trypanosoma cruzi,Trypanosoma,1.5e-12,47.2,0.0,putative ARP2/3 complex 16kDa subunit [Trypanosoma cruzi]
+RNF03584.1,Trypanosoma rangeli,Trypanosoma,7.4e-12,45.0,0.0,ARP2/3 complex subunit [Trypanosoma rangeli]
+EAN80710.1,Trypanosoma cruzi,Trypanosoma,8e-12,44.9,0.0,"ARP2/3 complex subunit, putative [Trypanosoma cruzi]"
+PWV17300.1,Trypanosoma cruzi,Trypanosoma,8e-12,44.9,0.0,putative ARP2/3 complex 16kDa subunit [Trypanosoma cruzi]
+RNC50524.1,Trypanosoma cruzi,Trypanosoma,8e-12,44.9,0.0,ARP2/3 complex subunit [Trypanosoma cruzi]
+RNF02842.1,Trypanosoma conorhini,Trypanosoma,1.5e-11,44.0,0.0,ARP2/3 complex subunit [Trypanosoma conorhini]
+CCC51991.1,Trypanosoma vivax Y486,Trypanosoma,1.7e-11,43.8,0.0,putative ARP2/3 complex 16kDa subunit [Trypanosoma vivax Y486]
+KAH8606285.1,Trypanosoma vivax,Trypanosoma,1.7e-11,43.8,0.0,putative ARP2 3 complex 16 kDa subunit (p16 Arc) [Trypanosoma vivax]
+ORC90443.1,Trypanosoma theileri,Trypanosoma,6.5e-11,41.9,0.0,ARP2/3 complex subunit [Trypanosoma theileri]
+KEG14004.1,Trypanosoma grayi,Trypanosoma,1.1e-09,37.9,0.0,ARP2/3 complex subunit [Trypanosoma grayi]
+SCU71659.1,Trypanosoma equiperdum,Trypanosoma,9.9e-08,31.6,0.1,"ARP2/3 complex 16kDa subunit, putative [Trypanosoma equiperdum]"
+CBH16189.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,1.8e-07,30.7,0.1,"ARP2/3 complex 16kDa subunit, putative [Trypanosoma brucei gambiense DAL972]"
+ABF58735.1,Trypanosoma brucei,Trypanosoma,2e-07,30.6,0.1,ARPC5 [Trypanosoma brucei]
+EAN78452.1,Trypanosoma brucei brucei TREU927,Trypanosoma,2e-07,30.6,0.1,"ARP2/3 complex 16kDa subunit, putative [Trypanosoma brucei brucei TREU927]"

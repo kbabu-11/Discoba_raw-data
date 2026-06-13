@@ -1,0 +1,131 @@
+seq_id,organism,genus,evalue,score,bias,description
+CAD2217495.1,Angomonas deanei,Angomonas,4.00E-06,25.5,0.6,"WD domain, G-beta repeat, putative [Angomonas deanei]"
+EPY37523.1,Angomonas deanei,Angomonas,0.00017,20.1,5.8,actin cortical patch component [Angomonas deanei]
+EPY24907.1,Angomonas deanei,Angomonas,0.00058,18.4,8.1,actin cortical patch component [Angomonas deanei]
+EPY43056.1,Angomonas deanei,Angomonas,0.0006,18.3,8.2,actin cortical patch component [Angomonas deanei]
+CAJ2470398.1,Leishmania braziliensis,Leishmania,3.60E-08,32.2,5.4,unnamed protein product [Leishmania braziliensis]
+CAJ2470910.1,Leishmania braziliensis,Leishmania,3.60E-08,32.2,5.4,unnamed protein product [Leishmania braziliensis]
+KAI5691009.1,Leishmania braziliensis,Leishmania,3.60E-08,32.2,5.4,hypothetical protein MNV84_02567 [Leishmania braziliensis]
+CAJ2470651.1,Leishmania braziliensis,Leishmania,0.00022,19.7,1.7,unnamed protein product [Leishmania braziliensis]
+CAJ2471160.1,Leishmania braziliensis,Leishmania,0.00022,19.7,1.7,unnamed protein product [Leishmania braziliensis]
+KAI5688323.1,Leishmania braziliensis,Leishmania,0.00022,19.7,1.7,hypothetical protein MNV84_02685 [Leishmania braziliensis]
+CAM38072.2,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,3.60E-08,32.2,5.4,putative ARP2/3 complex subunit [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ64721.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,3.60E-08,32.2,5.4,actin-related_protein_2/3_complex_subunit_1 (plasmid) [Leishmania braziliensis MHOM/BR/75/M2904]
+CAM38217.2,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,0.00022,19.7,1.7,conserved hypothetical protein [Leishmania braziliensis MHOM/BR/75/M2904]
+AYU78020.1,Leishmania donovani,Leishmania,6.10E-11,41.3,6.2,"actin-related protein 2/3 complex subunit 1, putative [Leishmania donovani]"
+CBZ33398.1,Leishmania donovani,Leishmania,6.10E-11,41.3,6.2,"ARP2/3 complex subunit, putative [Leishmania donovani]"
+KAG5481701.1,Leishmania enriettii,Leishmania,9.80E-09,34.1,5,hypothetical protein CUR178_07054 [Leishmania enriettii]
+KAG5481165.1,Leishmania enriettii,Leishmania,3.40E-05,22.4,1.3,hypothetical protein CUR178_06397 [Leishmania enriettii]
+CCM14580.1,Leishmania guyanensis,Leishmania,0.00022,19.7,1.7,"hypothetical protein, conserved [Leishmania guyanensis]"
+CAC9480805.1,Leishmania infantum,Leishmania,9.20E-11,40.7,6.4,actin-related_protein_2/3_complex_subunit_1_-_putative [Leishmania infantum]
+CAM67145.1,Leishmania infantum JPCM5,Leishmania,9.20E-11,40.7,6.4,"actin related protein 2/3 complex, putative (arpc1) [Leishmania infantum JPCM5]"
+CAJ1021442.1,Leishmania lindenbergi,Leishmania,3.80E-08,32.1,5.5,"hypothetical protein, conserved [Leishmania lindenbergi]"
+CAJ1021859.1,Leishmania lindenbergi,Leishmania,0.00019,20,1.7,"WD domain, G-beta repeat, putative [Leishmania lindenbergi]"
+ABF58725.1,Leishmania major,Leishmania,1.50E-12,46.6,6,ARPC1 [Leishmania major]
+CAG9572477.1,Leishmania major strain Friedlin,Leishmania,1.50E-12,46.6,6,actin-related_protein_2/3_complex_subunit_1_-_putative [Leishmania major strain Friedlin]
+CAJ03836.1,Leishmania major strain Friedlin,Leishmania,1.50E-12,46.6,6,putative ARP2/3 complex subunit [Leishmania major strain Friedlin]
+KAG5481061.1,Leishmania martiniquensis,Leishmania,4.90E-10,38.3,5.3,hypothetical protein LSCM1_06738 [Leishmania martiniquensis]
+KAG5480519.1,Leishmania martiniquensis,Leishmania,2.10E-05,23.1,0.6,hypothetical protein LSCM1_06222 [Leishmania martiniquensis]
+CBZ25600.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,4.60E-13,48.3,6,"actin related protein 2/3 complex, putative (arpc1) [Leishmania mexicana MHOM/GT/2001/U1103]"
+CBZ25706.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,0.00097,17.6,1.1,conserved hypothetical protein [Leishmania mexicana MHOM/GT/2001/U1103]
+CAJ1007396.1,Leishmania naiffi,Leishmania,3.90E-07,28.8,7.9,"hypothetical protein, conserved [Leishmania naiffi]"
+CAJ1007540.1,Leishmania naiffi,Leishmania,0.00018,20,1.7,"WD domain, G-beta repeat, putative [Leishmania naiffi]"
+KAG5481383.1,Leishmania orientalis,Leishmania,8.70E-08,30.9,7.4,hypothetical protein LSCM4_07094 [Leishmania orientalis]
+KAG5480848.1,Leishmania orientalis,Leishmania,7.00E-06,24.7,1.4,hypothetical protein LSCM4_06416 [Leishmania orientalis]
+AIN97273.1,Leishmania panamensis,Leishmania,3.90E-08,32.1,5.6,"actin related protein 2/3 complex, putative [Leishmania panamensis]"
+CAJ1041895.1,Leishmania shawi,Leishmania,3.70E-08,32.2,5.3,"hypothetical protein, conserved [Leishmania shawi]"
+CAJ1022131.1,Leishmania shawi,Leishmania,4.30E-08,31.9,5.4,"hypothetical protein, conserved [Leishmania shawi]"
+CAJ1022439.1,Leishmania shawi,Leishmania,0.00022,19.7,1.7,"WD domain, G-beta repeat, putative [Leishmania shawi]"
+CAJ1042007.1,Leishmania shawi,Leishmania,0.00022,19.7,1.7,"WD domain, G-beta repeat, putative [Leishmania shawi]"
+KAL0527095.1,Leishmania shawi,Leishmania,0.00022,19.7,1.7,"putative WD domain, G-beta repeat [Leishmania shawi]"
+KAG5508052.1,Leishmania sp. Ghana 2012 LV757,Leishmania,1.20E-08,33.8,5.2,hypothetical protein GH5_07108 [Leishmania sp. Ghana 2012 LV757]
+KAG5507282.1,Leishmania sp. Ghana 2012 LV757,Leishmania,3.10E-05,22.5,1.3,hypothetical protein GH5_07374 [Leishmania sp. Ghana 2012 LV757]
+KAG5503669.1,Leishmania sp. Namibia,Leishmania,3.30E-08,32.3,6,hypothetical protein JIQ42_05891 [Leishmania sp. Namibia]
+KAG5503018.1,Leishmania sp. Namibia,Leishmania,4.20E-05,22.1,1.6,hypothetical protein JIQ42_06981 [Leishmania sp. Namibia]
+CAJ1022227.1,Leishmania utingensis,Leishmania,5.50E-08,31.6,5.6,"hypothetical protein, conserved [Leishmania utingensis]"
+CAJ1022673.1,Leishmania utingensis,Leishmania,0.00022,19.8,1.7,"WD domain, G-beta repeat, putative [Leishmania utingensis]"
+KPA78573.1,Leptomonas pyrrhocoris,Leptomonas,1.40E-10,40.2,6.4,actin related protein 2/3 complex putative (arpc1) (ARPC1) [Leptomonas pyrrhocoris]
+KPA78579.1,Leptomonas pyrrhocoris,Leptomonas,1.40E-10,40.2,6.4,actin related protein 2/3 complex putative (arpc1) (ARPC1) [Leptomonas pyrrhocoris]
+KPA73246.1,Leptomonas pyrrhocoris,Leptomonas,6.30E-07,28.1,7.4,hypothetical protein ABB37_09965 [Leptomonas pyrrhocoris]
+KPA83549.1,Leptomonas pyrrhocoris,Leptomonas,6.30E-07,28.1,7.4,hypothetical protein ABB37_01852 [Leptomonas pyrrhocoris]
+AGG11621.1,Leptomonas pyrrhocoris,Leptomonas,0.001,17.5,0.7,"hypothetical protein, partial [Leptomonas pyrrhocoris]"
+KPA82648.1,Leptomonas pyrrhocoris,Leptomonas,0.001,17.5,0.7,hypothetical protein ABB37_02485 [Leptomonas pyrrhocoris]
+KPA82649.1,Leptomonas pyrrhocoris,Leptomonas,0.001,17.5,0.7,hypothetical protein ABB37_02485 [Leptomonas pyrrhocoris]
+KPA82650.1,Leptomonas pyrrhocoris,Leptomonas,0.001,17.5,0.7,hypothetical protein ABB37_02485 [Leptomonas pyrrhocoris]
+KPI89966.1,Leptomonas seymouri,Leptomonas,5.50E-13,48,2.6,actin related protein 2/3 complex putative (arpc1) (ARPC1) [Leptomonas seymouri]
+KAL7705697.1,Lotmaria passim,Lotmaria,1.40E-10,40.1,5.5,actin related protein 2/3 complex [Lotmaria passim]
+KAL7701064.1,Lotmaria passim,Lotmaria,1.40E-10,40.1,5.5,actin related protein 2/3 complex [Lotmaria passim]
+KAF0974796.1,Naegleria fowleri,Naegleria,6.80E-86,288,5.4,hypothetical protein FDP41_006270 [Naegleria fowleri]
+KAF0982040.1,Naegleria fowleri,Naegleria,5.50E-07,28.3,2.7,hypothetical protein FDP41_011901 [Naegleria fowleri]
+KAF0980121.1,Naegleria fowleri,Naegleria,9.70E-06,24.2,3.4,hypothetical protein FDP41_013770 [Naegleria fowleri]
+KAF0980184.1,Naegleria fowleri,Naegleria,1.90E-05,23.3,4.5,hypothetical protein FDP41_013398 [Naegleria fowleri]
+CAG4708948.1,Naegleria fowleri,Naegleria,0.00011,20.7,0.2,unnamed protein product [Naegleria fowleri]
+KAF0985231.1,Naegleria fowleri,Naegleria,0.00011,20.7,0.2,hypothetical protein FDP41_000270 [Naegleria fowleri]
+CAG4714191.1,Naegleria fowleri,Naegleria,0.00016,20.2,6.2,unnamed protein product [Naegleria fowleri]
+KAF0975853.1,Naegleria fowleri,Naegleria,0.00016,20.2,6.2,hypothetical protein FDP41_005180 [Naegleria fowleri]
+KAF0981368.1,Naegleria fowleri,Naegleria,0.0016,16.9,0,hypothetical protein FDP41_012628 [Naegleria fowleri]
+KAF0975696.1,Naegleria fowleri,Naegleria,0.022,13.2,3.5,hypothetical protein FDP41_005023 [Naegleria fowleri]
+EFC36627.1,Naegleria gruberi,Naegleria,1.30E-86,290.4,7,predicted protein [Naegleria gruberi]
+EFC49135.1,Naegleria gruberi,Naegleria,2.00E-06,26.5,1.5,transcriptional repressor TUP1 [Naegleria gruberi]
+EFC50188.1,Naegleria gruberi,Naegleria,2.60E-06,26.1,4.9,hypothetical protein NAEGRDRAFT_77945 [Naegleria gruberi]
+EFC44373.1,Naegleria gruberi,Naegleria,3.10E-06,25.8,4.3,hypothetical protein NAEGRDRAFT_33676 [Naegleria gruberi]
+EFC42667.1,Naegleria gruberi,Naegleria,6.20E-06,24.8,6,WD40 repeat domain-containing protein [Naegleria gruberi]
+EFC46086.1,Naegleria gruberi,Naegleria,7.70E-06,24.5,9.1,WD40 domain-containing protein [Naegleria gruberi]
+KAG2378261.1,Naegleria lovaniensis,Naegleria,1.30E-84,283.8,5.9,hypothetical protein C9374_008404 [Naegleria lovaniensis]
+KAG2381533.1,Naegleria lovaniensis,Naegleria,1.50E-64,217.7,7.9,hypothetical protein C9374_006522 [Naegleria lovaniensis]
+KAG2373505.1,Naegleria lovaniensis,Naegleria,9.40E-63,211.8,7.7,hypothetical protein C9374_012112 [Naegleria lovaniensis]
+KAG2388108.1,Naegleria lovaniensis,Naegleria,1.00E-06,27.4,4.3,hypothetical protein C9374_000958 [Naegleria lovaniensis]
+KAG2386588.1,Naegleria lovaniensis,Naegleria,8.50E-05,21.1,7.1,hypothetical protein C9374_002332 [Naegleria lovaniensis]
+KAG5507629.1,Porcisia hertigi,Porcisia,2.40E-08,32.8,7,hypothetical protein JKF63_06578 [Porcisia hertigi]
+EPY22005.1,Strigomonas culicis,Strigomonas,2.00E-05,23.2,1.2,intraflagellar transport protein 80 [Strigomonas culicis]
+ABF58731.1,Trypanosoma brucei,Trypanosoma,8.80E-38,129.6,1,ARPC1 [Trypanosoma brucei]
+AAX80635.1,Trypanosoma brucei,Trypanosoma,0.00028,19.4,1.6,"hypothetical protein, conserved [Trypanosoma brucei]"
+EAN78692.1,Trypanosoma brucei brucei TREU927,Trypanosoma,8.80E-38,129.6,1,"actin related protein 2/3 complex, putative [Trypanosoma brucei brucei TREU927]"
+EAN78863.1,Trypanosoma brucei brucei TREU927,Trypanosoma,7.50E-06,24.6,0.9,"hypothetical protein, conserved [Trypanosoma brucei brucei TREU927]"
+AAZ10499.1,Trypanosoma brucei brucei TREU927,Trypanosoma,0.00028,19.4,1.6,"hypothetical protein, conserved [Trypanosoma brucei brucei TREU927]"
+ABQ43158.1,Trypanosoma brucei brucei TREU927,Trypanosoma,0.00028,19.4,1.6,actin-interacting protein 1 [Trypanosoma brucei brucei TREU927]
+CBH16495.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,4.40E-38,130.6,0.8,"ARP2/3 complex subunit, putative [Trypanosoma brucei gambiense DAL972]"
+CBH16721.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,7.50E-06,24.6,0.9,"hypothetical protein, conserved [Trypanosoma brucei gambiense DAL972]"
+CBH10177.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,0.00012,20.6,1.1,"hypothetical protein, conserved [Trypanosoma brucei gambiense DAL972]"
+RNF25948.1,Trypanosoma conorhini,Trypanosoma,9.70E-42,142.7,2.7,putative ARP2/3 complex subunit [Trypanosoma conorhini]
+RNF26483.1,Trypanosoma conorhini,Trypanosoma,5.60E-06,25,1.6,intraflagellar transport protein 80 [Trypanosoma conorhini]
+RNF11214.1,Trypanosoma conorhini,Trypanosoma,1.50E-05,23.6,1.8,WD40 repeat-containing protein [Trypanosoma conorhini]
+EAN83660.1,Trypanosoma cruzi,Trypanosoma,4.20E-41,140.6,1.3,"ARP2/3 complex subunit, putative [Trypanosoma cruzi]"
+PWV04498.1,Trypanosoma cruzi,Trypanosoma,4.20E-41,140.6,1.3,putative actin-related protein 2/3 complex subunit 1 [Trypanosoma cruzi]
+RNC48827.1,Trypanosoma cruzi,Trypanosoma,4.20E-41,140.6,1.3,putative ARP2/3 complex subunit [Trypanosoma cruzi]
+PWV01605.1,Trypanosoma cruzi,Trypanosoma,7.50E-41,139.7,1.2,putative actin-related protein 2/3 complex subunit 1 [Trypanosoma cruzi]
+KAF8282258.1,Trypanosoma cruzi,Trypanosoma,1.00E-40,139.3,1.3,putative actin-related protein 2/3 complex subunit 1 [Trypanosoma cruzi]
+KAF8292721.1,Trypanosoma cruzi,Trypanosoma,1.30E-40,139,1.4,putative actin-related protein 2/3 complex subunit 1 [Trypanosoma cruzi]
+EAN86425.1,Trypanosoma cruzi,Trypanosoma,3.00E-40,137.8,1,"ARP2/3 complex subunit, putative [Trypanosoma cruzi]"
+PWV21428.1,Trypanosoma cruzi,Trypanosoma,3.00E-40,137.8,1,putative actin-related protein 2/3 complex subunit 1 [Trypanosoma cruzi]
+RNC59936.1,Trypanosoma cruzi,Trypanosoma,3.00E-40,137.8,1,putative ARP2/3 complex subunit [Trypanosoma cruzi]
+EAN97596.1,Trypanosoma cruzi,Trypanosoma,1.30E-06,27.1,0.8,"hypothetical protein, conserved [Trypanosoma cruzi]"
+RNC61599.1,Trypanosoma cruzi,Trypanosoma,1.30E-06,27.1,0.8,intraflagellar transport protein 80 [Trypanosoma cruzi]
+RNF24021.1,Trypanosoma cruzi,Trypanosoma,2.00E-06,26.5,0.6,intraflagellar transport protein 80 [Trypanosoma cruzi]
+KAF8282150.1,Trypanosoma cruzi,Trypanosoma,2.00E-06,26.5,0.6,intraflagellar transport protein 80 [Trypanosoma cruzi]
+PWV01420.1,Trypanosoma cruzi,Trypanosoma,2.00E-06,26.5,0.6,putative intraflagellar transport protein 80 [Trypanosoma cruzi]
+EAN99334.1,Trypanosoma cruzi,Trypanosoma,7.80E-06,24.5,1,"hypothetical protein, conserved [Trypanosoma cruzi]"
+PBJ70348.1,Trypanosoma cruzi cruzi,Trypanosoma,7.50E-41,139.7,1.2,ARP2/3 complex subunit [Trypanosoma cruzi cruzi]
+ESS68887.1,Trypanosoma cruzi Dm28c,Trypanosoma,7.50E-41,139.7,1.2,ARP2/3 complex subunit [Trypanosoma cruzi Dm28c]
+ESS70757.1,Trypanosoma cruzi Dm28c,Trypanosoma,2.00E-06,26.5,0.6,hypothetical protein TCDM_00530 [Trypanosoma cruzi Dm28c]
+ABF13399.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,4.20E-41,140.6,1.3,ARPC1 [Trypanosoma cruzi strain CL Brener]
+ABF13413.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,7.80E-06,24.5,1,putative actin-interacting protein 1 [Trypanosoma cruzi strain CL Brener]
+SCU72664.1,Trypanosoma equiperdum,Trypanosoma,4.20E-38,130.7,1,"actin-related protein 2/3 complex subunit 1, putative [Trypanosoma equiperdum]"
+SCU68307.1,Trypanosoma equiperdum,Trypanosoma,7.50E-06,24.6,0.9,intraflagellar transport protein 80 [Trypanosoma equiperdum]
+SCU67271.1,Trypanosoma equiperdum,Trypanosoma,0.00028,19.4,1.6,"WD domain, G-beta repeat, putative [Trypanosoma equiperdum]"
+KEG15162.1,Trypanosoma grayi,Trypanosoma,9.60E-42,142.7,0.6,putative ARP2/3 complex subunit [Trypanosoma grayi]
+KEG12596.1,Trypanosoma grayi,Trypanosoma,1.00E-05,24.1,0.8,intraflagellar transport protein 80 [Trypanosoma grayi]
+KEG13942.1,Trypanosoma grayi,Trypanosoma,2.50E-05,22.9,4.7,WD40 repeat-containing protein [Trypanosoma grayi]
+KAH9589242.1,Trypanosoma melophagium,Trypanosoma,7.80E-42,143,3,WD40 repeat [Trypanosoma melophagium]
+KAH9589314.1,Trypanosoma melophagium,Trypanosoma,4.40E-07,28.6,0.6,WD40 repeat [Trypanosoma melophagium]
+KAH9598775.1,Trypanosoma melophagium,Trypanosoma,0.00046,18.7,3.9,WD40 repeat [Trypanosoma melophagium]
+RNF11696.1,Trypanosoma rangeli,Trypanosoma,1.70E-41,141.8,1.3,putative ARP2/3 complex subunit [Trypanosoma rangeli]
+RNF12198.1,Trypanosoma rangeli,Trypanosoma,1.80E-06,26.6,1.5,intraflagellar transport protein 80 [Trypanosoma rangeli]
+RNF06102.1,Trypanosoma rangeli,Trypanosoma,3.40E-05,22.4,0.6,WD40 repeat-containing protein [Trypanosoma rangeli]
+ORC92685.1,Trypanosoma theileri,Trypanosoma,9.50E-42,142.7,2.9,putative ARP2/3 complex subunit [Trypanosoma theileri]
+ORC92498.1,Trypanosoma theileri,Trypanosoma,1.20E-07,30.4,2.2,intraflagellar transport protein 80 [Trypanosoma theileri]
+ORC90286.1,Trypanosoma theileri,Trypanosoma,0.00084,17.8,3.4,WD40 repeat-containing protein [Trypanosoma theileri]
+KAH8611759.1,Trypanosoma vivax,Trypanosoma,4.80E-38,130.5,2.6,WD domain [Trypanosoma vivax]
+CCC52234.1,Trypanosoma vivax Y486,Trypanosoma,4.80E-38,130.5,2.6,putative actin related protein 2/3 complex [Trypanosoma vivax Y486]
+CCC47226.1,Trypanosoma vivax Y486,Trypanosoma,0.024,13,0.6,conserved hypothetical protein [Trypanosoma vivax Y486]
+KAL9651908.1,Willaertia magna,Willaertia,1.60E-05,23.5,5.7,hypothetical protein ABK040_000254 [Willaertia magna]

@@ -1,0 +1,53 @@
+seq_id,organism,genus,evalue,score,bias,description
+KAF0975520.1,Naegleria fowleri,Naegleria,1.4e-78,262.1,1.6,hypothetical protein FDP41_005514 [Naegleria fowleri]
+KAG2381893.1,Naegleria lovaniensis,Naegleria,4.8e-78,260.3,1.9,hypothetical protein C9374_005685 [Naegleria lovaniensis]
+EFC47995.1,Naegleria gruberi,Naegleria,8.1e-73,243.3,1.2,predicted protein [Naegleria gruberi]
+KAL0488816.1,Acrasis kona,Acrasis,5.6e-70,234.1,6.5,"actin related protein 2/3 complex, subunit 4 [Acrasis kona]"
+KAG2374926.1,Naegleria lovaniensis,Naegleria,6.9e-67,224.0,1.8,hypothetical protein C9374_010300 [Naegleria lovaniensis]
+KAH9593282.1,Trypanosoma melophagium,Trypanosoma,1.3e-53,180.8,0.4,Actin-related protein 2/3 complex subunit 4 [Trypanosoma melophagium]
+ORC84946.1,Trypanosoma theileri,Trypanosoma,4.3e-53,179.1,0.2,ARP2/3 complex subunit [Trypanosoma theileri]
+RNF02637.1,Trypanosoma rangeli,Trypanosoma,9.2e-53,178.1,0.2,ARP2/3 complex subunit [Trypanosoma rangeli]
+CCC46646.1,Trypanosoma vivax Y486,Trypanosoma,2.4e-52,176.7,0.2,putative ARP2/3 complex subunit [Trypanosoma vivax Y486]
+KAH8607481.1,Trypanosoma vivax,Trypanosoma,2.4e-52,176.7,0.2,putative ARP2 3 complex 20 kDa subunit (ARPC4) [Trypanosoma vivax]
+EAN95835.1,Trypanosoma cruzi,Trypanosoma,3.1e-52,176.3,0.7,"ARP2/3 complex subunit, putative [Trypanosoma cruzi]"
+PWV14925.1,Trypanosoma cruzi,Trypanosoma,3.1e-52,176.3,0.7,putative ARP2/3 complex subunit [Trypanosoma cruzi]
+RNC42801.1,Trypanosoma cruzi,Trypanosoma,3.1e-52,176.3,0.7,ARP2/3 complex subunit [Trypanosoma cruzi]
+ABF13402.1,Trypanosoma cruzi strain CL Brener,Trypanosoma,1.6e-51,174.0,0.7,ARPC4 [Trypanosoma cruzi strain CL Brener]
+EAN88776.1,Trypanosoma cruzi,Trypanosoma,1.6e-51,174.0,0.7,"ARP2/3 complex subunit, putative [Trypanosoma cruzi]"
+RNC53894.1,Trypanosoma cruzi,Trypanosoma,1.6e-51,174.0,0.7,ARP2/3 complex subunit [Trypanosoma cruzi]
+RNF27430.1,Trypanosoma conorhini,Trypanosoma,2.1e-51,173.7,0.3,ARP2/3 complex subunit [Trypanosoma conorhini]
+KEG07520.1,Trypanosoma grayi,Trypanosoma,5.3e-50,169.1,0.3,ARP2/3 complex subunit [Trypanosoma grayi]
+AAQ15747.1,Trypanosoma brucei brucei TREU927,Trypanosoma,3.7e-47,159.8,0.3,"ARP2/3 complex subunit, putative [Trypanosoma brucei brucei TREU927]"
+AAX78894.1,Trypanosoma brucei,Trypanosoma,3.7e-47,159.8,0.3,"ARP2/3 complex subunit, putative [Trypanosoma brucei]"
+ABF58734.1,Trypanosoma brucei,Trypanosoma,3.7e-47,159.8,0.3,ARPC4 [Trypanosoma brucei]
+RHW74006.1,Trypanosoma brucei equiperdum,Trypanosoma,3.7e-47,159.8,0.3,ARP2/3 complex subunit [Trypanosoma brucei equiperdum]
+SCU64803.1,Trypanosoma equiperdum,Trypanosoma,3.7e-47,159.8,0.3,"ARP2/3 complex subunit, putative [Trypanosoma equiperdum]"
+CBH09404.1,Trypanosoma brucei gambiense DAL972,Trypanosoma,4.6e-47,159.5,0.3,"ARP2/3 complex subunit, putative [Trypanosoma brucei gambiense DAL972]"
+KAF0975310.1,Naegleria fowleri,Naegleria,6e-38,129.8,0.1,hypothetical protein FDP41_005681 [Naegleria fowleri]
+EFC45122.1,Naegleria gruberi,Naegleria,6e-24,84.3,0.4,"predicted protein, partial [Naegleria gruberi]"
+KAG5487962.1,Leishmania martiniquensis,Leishmania,9.8e-20,70.6,0.0,hypothetical protein LSCM1_08277 [Leishmania martiniquensis]
+KAG5487198.1,Leishmania enriettii,Leishmania,1.6e-19,69.9,0.0,hypothetical protein CUR178_08211 [Leishmania enriettii]
+KAG5488206.1,Leishmania orientalis,Leishmania,2.4e-19,69.3,0.0,hypothetical protein LSCM4_08186 [Leishmania orientalis]
+KAG5508447.1,Leishmania sp. Namibia,Leishmania,3.6e-19,68.8,0.1,hypothetical protein JIQ42_08189 [Leishmania sp. Namibia]
+KAG5512483.1,Leishmania sp. Ghana 2012 LV757,Leishmania,4.5e-19,68.4,0.0,hypothetical protein GH5_08449 [Leishmania sp. Ghana 2012 LV757]
+CBZ23121.1,Leishmania mexicana MHOM/GT/2001/U1103,Leishmania,2.2e-18,66.2,0.0,putative ARP2/3 complex subunit [Leishmania mexicana MHOM/GT/2001/U1103]
+CAJ1985731.1,Leishmania donovani,Leishmania,1e-17,64.0,0.0,ARPC4 | Arp2/3 complex subunit 4 [Leishmania donovani]
+CBZ31227.1,Leishmania donovani,Leishmania,2.4e-17,62.8,0.0,"ARP2/3 complex subunit, putative [Leishmania donovani]"
+TPP42993.1,Leishmania donovani,Leishmania,2.4e-17,62.8,0.0,ARP2/3 complex 20 kDa subunit (ARPC4) family protein [Leishmania donovani]
+CAC9438038.1,Leishmania infantum,Leishmania,5.1e-17,61.8,0.0,ARP2/3_complex_subunit_-_putative [Leishmania infantum]
+CAM65288.1,Leishmania infantum JPCM5,Leishmania,5.1e-17,61.8,0.0,putative ARP2/3 complex subunit [Leishmania infantum JPCM5]
+CAJ1015744.1,Leishmania lindenbergi,Leishmania,4.1e-16,58.8,0.0,"ARP2/3 complex 20 kDa subunit (ARPC4), putative [Leishmania lindenbergi]"
+CAJ1005361.1,Leishmania naiffi,Leishmania,4.4e-16,58.7,0.0,"ARP2/3 complex 20 kDa subunit (ARPC4), putative [Leishmania naiffi]"
+CAJ2465720.1,Leishmania braziliensis,Leishmania,5.4e-16,58.4,0.0,unnamed protein product [Leishmania braziliensis]
+CAM41457.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,5.4e-16,58.4,0.0,putative ARP2/3 complex subunit [Leishmania braziliensis MHOM/BR/75/M2904]
+SYZ62451.1,Leishmania braziliensis MHOM/BR/75/M2904,Leishmania,5.4e-16,58.4,0.0,ARP2/3_complex_subunit (plasmid) [Leishmania braziliensis MHOM/BR/75/M2904]
+AIN95228.1,Leishmania panamensis,Leishmania,5.5e-16,58.4,0.0,"ARP2/3 complex subunit, putative [Leishmania panamensis]"
+CCM12594.1,Leishmania guyanensis,Leishmania,5.5e-16,58.4,0.0,"ARP2/3 complex subunit, putative [Leishmania guyanensis]"
+XQJ24266.1,Leishmania guyanensis,Leishmania,5.5e-16,58.4,0.0,"ARP2/3 complex subunit, putative [Leishmania guyanensis]"
+CAJ1015861.1,Leishmania shawi,Leishmania,5.6e-16,58.4,0.0,"ARP2/3 complex 20 kDa subunit (ARPC4), putative [Leishmania shawi]"
+CAJ1039854.1,Leishmania shawi,Leishmania,5.6e-16,58.4,0.0,"ARP2/3 complex 20 kDa subunit (ARPC4), putative [Leishmania shawi]"
+KAL0531014.1,Leishmania shawi,Leishmania,5.6e-16,58.4,0.0,putative ARP2/3 complex 20 kDa subunit (ARPC4) [Leishmania shawi]
+CAJ1015935.1,Leishmania utingensis,Leishmania,5.8e-16,58.3,0.0,"ARP2/3 complex 20 kDa subunit (ARPC4), putative [Leishmania utingensis]"
+KPA73803.1,Leptomonas pyrrhocoris,Leptomonas,1.1e-15,57.4,0.0,putative ARP2/3 complex subunit [Leptomonas pyrrhocoris]
+ABF58727.1,Leishmania major,Leishmania,1.3e-13,50.7,0.0,ARPC4 [Leishmania major]
+CBZ11950.1,Leishmania major strain Friedlin,Leishmania,1.3e-13,50.7,0.0,putative ARP2/3 complex subunit [Leishmania major strain Friedlin]
