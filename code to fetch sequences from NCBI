@@ -1,0 +1,135 @@
+# ═══════════════════════════════════════════════════════════════
+#  Fetch protein sequences from NCBI — Google Colab ready
+#  Uses requests directly (no Biopython Entrez) for reliability
+#  Input : CSV file with a column of accession IDs
+#  Output: sequences.fasta + failed_accessions.txt if any fail
+# ═══════════════════════════════════════════════════════════════
+
+# ── Run this first in Colab if needed ───────────────────────────
+# !pip install requests biopython
+
+import csv
+import time
+import requests
+from io import StringIO
+from Bio import SeqIO
+
+
+# ─────────────────────────────────────────────
+# 1. CONFIGURATION  ← edit these
+# ─────────────────────────────────────────────
+EMAIL      = "kaaviyababu2000@gmail.com"   # ← YOUR real email (required by NCBI)
+API_KEY    = ""                          # ← optional; get free at ncbi.nlm.nih.gov/account
+                                         #   increases rate limit from 3 to 10 req/sec
+
+csv_file      = "potential ARP3 accession ID.csv"          # ← your CSV file
+id_column     = "Seq_ID"                 # ← column header containing accession IDs
+output_fasta  = "ARP3_sequences.fasta"        # ← output FASTA file
+
+
+# ─────────────────────────────────────────────
+# 2. LOAD ACCESSION IDs FROM CSV
+# ─────────────────────────────────────────────
+
+# Option A – interactive upload in Colab (uncomment to use)
+# from google.colab import files
+# uploaded = files.upload()
+# csv_file = list(uploaded.keys())[0]
+
+accessions = []
+with open(csv_file, "r") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        acc = row[id_column].strip()
+        if acc:
+            accessions.append(acc)
+
+# Remove duplicates while preserving order
+seen = set()
+accessions = [a for a in accessions if not (a in seen or seen.add(a))]
+
+print(f"Loaded {len(accessions)} unique accession IDs")
+print(f"First few: {accessions[:5]}\n")
+
+
+# ─────────────────────────────────────────────
+# 3. FETCH SEQUENCES VIA DIRECT HTTP REQUESTS
+# ─────────────────────────────────────────────
+BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+PARAMS_BASE = {
+    "db"      : "protein",
+    "rettype" : "fasta",
+    "retmode" : "text",
+    "email"   : EMAIL,
+    "tool"    : "python_fetch_script",
+}
+if API_KEY:
+    PARAMS_BASE["api_key"] = API_KEY
+
+DELAY   = 0.12 if API_KEY else 0.4   # 10/sec with key, 3/sec without
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": f"python-requests/ncbi-fetch; email={EMAIL}"})
+
+records = []
+failed  = []
+
+print(f"Fetching {len(accessions)} sequences from NCBI ...\n")
+
+for i, acc in enumerate(accessions, 1):
+    params = {**PARAMS_BASE, "id": acc}
+
+    try:
+        response = SESSION.get(BASE_URL, params=params, timeout=30)
+
+        # Catch HTTP errors with informative message
+        if response.status_code != 200:
+            raise Exception(f"HTTP {response.status_code} — {response.text.strip()[:120]}")
+
+        text = response.text.strip()
+
+        # NCBI sometimes returns a 200 with an error message inside
+        if not text or text.startswith("Error") or "<ERROR>" in text:
+            raise Exception(f"NCBI returned: {text[:120]}")
+
+        batch = list(SeqIO.parse(StringIO(text), "fasta"))
+
+        if not batch:
+            raise Exception("Empty FASTA returned — ID may be retired or invalid")
+
+        records.extend(batch)
+        seq_len = len(batch[0].seq)
+        print(f"  [{i:>3}/{len(accessions)}] ✓  {acc:<20}  {seq_len} aa  {batch[0].description[:60]}")
+
+    except Exception as e:
+        print(f"  [{i:>3}/{len(accessions)}] ✗  {acc:<20}  {e}")
+        failed.append(acc)
+
+    time.sleep(DELAY)
+
+
+# ─────────────────────────────────────────────
+# 4. SAVE TO FASTA
+# ─────────────────────────────────────────────
+SeqIO.write(records, output_fasta, "fasta")
+
+print(f"\n{'=' * 60}")
+print(f"  Done!")
+print(f"  Sequences retrieved : {len(records)}/{len(accessions)}")
+print(f"  Saved to            : {output_fasta}")
+
+if failed:
+    print(f"\n  ✗ Failed ({len(failed)} IDs):")
+    for acc in failed:
+        print(f"    {acc}")
+    with open("failed_accessions.txt", "w") as f:
+        f.write("\n".join(failed))
+    print(f"\n  Failed IDs saved to : failed_accessions.txt")
+    print(f"  → Check these manually at: https://www.ncbi.nlm.nih.gov/protein/<ID>")
+
+
+# ─────────────────────────────────────────────
+# 5. OPTIONAL — download files in Colab
+# ─────────────────────────────────────────────
+# from google.colab import files
+# files.download(output_fasta)
+# if failed: files.download("failed_accessions.txt")
