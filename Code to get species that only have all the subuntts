@@ -1,0 +1,174 @@
+#!/usr/bin/env python3
+"""
+Filter multiple per-subunit FASTA files to keep only organisms
+present in ALL subunits (intersection).
+
+Designed for Google Colab.
+Handles both header formats:
+  UniProt : >sp|xx|xx Description OS=Organism OX=...
+  Custom  : >source|subunit|subject_seq|Organism
+"""
+
+import re
+import os
+from collections import defaultdict
+from google.colab import drive, files
+
+# ── Config ────────────────────────────────────────────────────────────────────
+INPUT_FOLDER  = "/content/blast_fasta_grouped"   # folder with per-subunit FASTAs
+OUTPUT_FOLDER = "/content/blast_fasta_common"    # filtered output
+SAVE_TO_DRIVE = False
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+# ── Header parsing ────────────────────────────────────────────────────────────
+
+def normalize_organism(raw: str) -> str:
+    """
+    Normalize an organism string to 'Genus species [strain X]' so that
+    entries like:
+      'Leishmania amazonensis strain UA301'
+      'Leishmania amazonensis strain UA301 chromosome 5'
+      'Leishmania chagasi strain MCER/.../Salvaterra isolat... Leishmania c... NA'
+    all collapse to the same key.
+    """
+    s = raw.strip()
+    # Strip invisible/non-printable characters
+    s = re.sub(r'[^\x20-\x7E]', '', s).strip()
+    # Remove everything from the first ellipsis onward (truncated NCBI descriptions)
+    s = re.sub(r'\s*\.\.\..*$', '', s).strip()
+    # Remove trailing assembly/genome/chromosome/contig/scaffold qualifiers
+    s = re.sub(
+        r'\s+(chromosome|complete genome|whole genome|genome assembly|'
+        r'genome chromosome|contig|scaffold|unitig|isolate\b|isolat\b)'
+        r'.*$',
+        '', s, flags=re.IGNORECASE
+    ).strip()
+    # Clean trailing punctuation
+    s = re.sub(r'[\s,;._]+$', '', s).strip()
+    return s
+
+
+def extract_organism(header: str) -> str | None:
+    """Return normalized organism string, or None to skip (e.g. query_seq)."""
+    header = re.sub(r'[^\x20-\x7E]', '', header).strip()
+    # UniProt
+    if header.startswith("sp|") or header.startswith("tr|"):
+        m = re.search(r'\bOS=(.+?)\s+OX=', header)
+        raw = m.group(1).strip() if m else "unknown"
+        return normalize_organism(raw)
+    # Custom pipe-delimited
+    parts = header.split('|')
+    if len(parts) >= 3:
+        if parts[2].strip() == "query_seq":
+            return None   # skip
+        raw = parts[3].strip() if len(parts) >= 4 else "unknown"
+        return normalize_organism(raw)
+    return "unknown"
+
+
+# ── Step 1: read all FASTA files and collect organisms per file ───────────────
+
+def read_fasta(filepath: str) -> list[tuple[str, str]]:
+    """Return list of (header_without_>, sequence) tuples."""
+    entries = []
+    header, seq_lines = None, []
+    with open(filepath, encoding='utf-8') as f:
+        for line in f:
+            line = line.rstrip()
+            if line.startswith('>'):
+                if header is not None:
+                    entries.append((header, ''.join(seq_lines)))
+                header, seq_lines = line[1:], []
+            else:
+                seq_lines.append(line)
+    if header is not None:
+        entries.append((header, ''.join(seq_lines)))
+    return entries
+
+
+if SAVE_TO_DRIVE:
+    print("Mounting Google Drive...")
+    drive.mount('/content/drive')
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+# Find all FASTA files in input folder
+fasta_files = sorted([
+    os.path.join(INPUT_FOLDER, f)
+    for f in os.listdir(INPUT_FOLDER)
+    if f.endswith('.txt') or f.endswith('.fasta') or f.endswith('.fa')
+])
+
+if not fasta_files:
+    raise FileNotFoundError(f"No FASTA files found in {INPUT_FOLDER}")
+
+print(f"Found {len(fasta_files)} subunit files:\n")
+
+# Map: filename -> list of (header, seq)
+file_entries: dict[str, list] = {}
+# Map: filename -> set of organisms
+file_organisms: dict[str, set] = {}
+
+for fpath in fasta_files:
+    fname = os.path.basename(fpath)
+    entries = read_fasta(fpath)
+    organisms = set()
+    for header, seq in entries:
+        org = extract_organism(header)
+        if org:
+            organisms.add(org)
+    file_entries[fname]   = entries
+    file_organisms[fname] = organisms
+    print(f"  {fname:45s}  {len(organisms):3d} organisms")
+
+
+# ── Step 2: find common organisms ─────────────────────────────────────────────
+
+common_organisms = set.intersection(*file_organisms.values())
+
+print(f"\n{'='*60}")
+print(f"Common organisms across all {len(fasta_files)} subunits: {len(common_organisms)}")
+print('='*60)
+for org in sorted(common_organisms):
+    print(f"  ✓ {org}")
+
+# Show which organisms were dropped and why
+all_organisms = set.union(*file_organisms.values())
+dropped = all_organisms - common_organisms
+if dropped:
+    print(f"\nDropped ({len(dropped)}) — not in all subunits:")
+    for org in sorted(dropped):
+        present_in = [f for f, orgs in file_organisms.items() if org in orgs]
+        missing_in = [f for f, orgs in file_organisms.items() if org not in orgs]
+        print(f"  ✗ {org}")
+        print(f"      missing from: {', '.join(missing_in)}")
+
+
+# ── Step 3: filter and write output FASTAs ────────────────────────────────────
+
+print(f"\nWriting filtered FASTAs to: {OUTPUT_FOLDER}\n")
+output_files = []
+
+for fname, entries in file_entries.items():
+    out_path = os.path.join(OUTPUT_FOLDER, fname) if SAVE_TO_DRIVE \
+               else f"/content/common_{fname}"
+
+    kept = 0
+    with open(out_path, 'w') as fout:
+        for header, seq in entries:
+            org = extract_organism(header)
+            if org is None:
+                continue   # skip query_seq entries
+            if org in common_organisms:
+                fout.write(f">{header}\n{seq}\n")
+                kept += 1
+
+    print(f"  {fname:45s}  kept {kept}/{len(entries)} sequences")
+    output_files.append(out_path)
+
+print(f"\nDone. Wrote {len(output_files)} filtered FASTA files.")
+
+# ── Download ──────────────────────────────────────────────────────────────────
+print("\nDownloading filtered files...")
+for f_path in output_files:
+    files.download(f_path)
